@@ -25,7 +25,8 @@ I now focus on learning formal languages and satisfiability checking for linear 
 - **Mingyue Cui**, Yuyang Zhong, Mingjian Feng, Junhua Long, Yehua Ling, Jiahao Xu, Kai Huang\*. 
  GAEM: Graph-driven Attention-based Entropy Model for LiDAR Point Cloud Compression[J]. 
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2025, 35(9): 9105-9118.
-(中科院一区，IF：11.1)
+(中科院一区，IF：11.1,
+[paper](./paper/26-TCSVT_2025.pdf))
 
 - **Weilin Luo**, Pingjia Liang, Junming Qiu, Polong Chen, Hai Wan\*, Jianfang Du\*, Weiyuan Fang.
 Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking. 
@@ -243,3 +244,4 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - 2016-2017 南京航空航天大学科研创新先进个人
 
 - 2013-2014 国家奖学金
+
