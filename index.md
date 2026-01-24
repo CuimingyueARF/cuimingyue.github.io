@@ -42,7 +42,7 @@ A Self-Attention-Based LiDAR Point Cloud Compression Framework in Autonomous Dri
 
 - Daosong Hu, Xi Li, **Mingyue Cui\***, Kai Huang. 
 LNet: Lightweight Network for Driver Attention Estimation via Scene and Gaze Consistency[J]. 
-* IEEE Transactions on Image Processing (TIP)*, 2026, 35:27-41. 
+*IEEE Transactions on Image Processing (TIP)*, 2026, 35:27-41. 
 (中科院一区，IF：13.7,
 [paper](./paper/35-TIP-2025.pdf))
 
@@ -239,5 +239,6 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - 2016-2017 南京航空航天大学科研创新先进个人
 
 - 2013-2014 国家奖学金
+
 
 
