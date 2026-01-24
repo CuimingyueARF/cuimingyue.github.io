@@ -22,10 +22,10 @@ I now focus on learning formal languages and satisfiability checking for linear 
 
 <!-- To appear in -->
 
-- **Weilin Luo**, Tingchen Han, Junming Qiu, Hai Wan\*, Jianfeng Du\*, Bo Peng, Guohui Xiao, Yanan Liu. 
-NADA: Neural Acceptance-Driven Approximate Specification Mining. 
-To appear in *Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2025.
-(CCF A)
+- **Mingyue Cui**, Yuyang Zhong, Mingjian Feng, Junhua Long, Yehua Ling, Jiahao Xu, Kai Huang\*. 
+ GAEM: Graph-driven Attention-based Entropy Model for LiDAR Point Cloud Compression[J]. 
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2025, 35(9): 9105-9118.
+(中科院一区，IF：11.1)
 
 - **Weilin Luo**, Pingjia Liang, Junming Qiu, Polong Chen, Hai Wan\*, Jianfang Du\*, Weiyuan Fang.
 Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking. 
@@ -241,4 +241,5 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - 2015-2017 南京航空航天大学奖学金, 一等奖
 - 2016-2017 南京航空航天大学三好研究生
 - 2016-2017 南京航空航天大学科研创新先进个人
+
 - 2013-2014 国家奖学金
