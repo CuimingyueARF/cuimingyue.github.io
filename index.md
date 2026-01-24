@@ -52,74 +52,57 @@ OctFormer: Efficient octree-based transformer for point cloud compression with l
 (中国计算机学会 CCF 推荐 A 类国际会议,
 [paper](./paper/10-AAAI-2023.pdf))
 
-- **Weilin Luo**, Yuhang Zheng, Rongzhen Ye, Hai Wan\*, Jianfeng Du\*, Pingjia Liang, Polong Chen. 
-SAT-verifiable LTL Satisfiability Checking via Graph Representation Learning.
-*Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2023: 1761-1765. 
-(CCF A, 
-[paper](./paper/ase23-ltlsc-public.pdf), 
-[code](https://github.com/sysulic/OSUG), 
-[slide](./slide/ase23-ltlsc-pre.pdf))
+- Daosong Hu, **Mingyue Cui\***, Kai Huang. 
+FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation[C].
+*In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025: 18760-18769. 
+(中国计算机学会 CCF 推荐 A 类国际会议, 
+[paper](./paper/23-CVPR-2025.pdf))
 
-- Bo Peng, Pingjia Liang, Tingchen Han, **Weilin Luo**, Jianfeng Du\*, Hai Wan\*, Rongzhen Ye, Yuhang Zheng:
-PURLTL: Mining LTL Specification from Imperfect Traces in Testing. 
-*Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2023: 1766-1770.
-(CCF A, 
-[paper](./paper/ase23-purltl-public.pdf), 
-[slide](./slide/ase23-purltl-pre.pdf))
+- **Mingyue Cui**, Shipeng Zhong, Boyang Li, Xu Chen (陈旭教授), Kai Huang\*.
+Offloading Autonomous Driving Services via Edge Computing[J]. 
+*IEEE Internet of Things Journal (IOTJ)*, 2020, 7(10):10535-10547.
+(中科院一区，IF：8.9, 
+[paper](./paper/5-IOTJ-2020.pdf))
 
-- Rongzhen Ye, Tianqu Zhuang, Hai Wan\*, Jianfeng Du\*, **Weilin Luo**, Pingjia Liang.
-A Noise-tolerant Differentiable Learning Approach for Single Occurrence Regular Expression with Interleaving.
-*Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI)*, 2023.
-(CCF A, acceptance rate: 19.6%,
-[paper](./paper/aaai23-rel-publish.pdf), 
-[slide](./slide/aaai23-SOIREDL-pre.pdf),
-[poster](./slide/aaai23-SOIREDL-poster-landscape.pdf))
+- Daosong Hu, **Mingyue Cui\***, Kai Huang.
+UnMoDE: Uncertainty Modeling for Driver Gaze Estimation via Feature Disentanglement[J].
+*IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2025, 26(7):10612-10622.
+(中科院一区，IF：8.4,
+[paper](./paper/24-TITS-2025.pdf))
 
-- **罗炜麟**, 万海\*, 杨滨好, 李骁达, 曹鉴恩, 宋晓彤. 
-套索边界条件: 一种可指导目标冲突修复的分歧描述. 
-*计算机工程与科学*, 2023, 45(5): 820-829. 
-(CCF T2,
-[paper](./paper/tsbjtj-public.pdf))
+- **Mingyue Cui**, Yewei Gan, Jiepeng Chen, Kai Zheng, Yanchong Xie, Daosong Hu, Yuning Cui, Kai Huang\*. 
+A Frequency-Guided Denoising Framework Based on Convolutional Transformer for Electrocardiogram Signals[J]. 
+*Engineering Applications of Artificial Intelligence (EAAI)*, 2026. 
+(中科院一区，IF：8,
+[paper](./paper/none.pdf))
 
-- **Weilin Luo**, Hai Wan\*, Delong Zhang, Jianfeng Du\*, Hengdi Su. 
-Checking LTL Satisfiability via End-to-end Learning. 
-*Proceedings of the 37th International Conference on Automated Software Engineering (ASE)*, 2022: 21:1-21:13. 
-(CCF A, 
-[paper](./paper/ase22-ltlsc-public.pdf), 
-[code](https://github.com/chenpolong/TLNet), 
-[slide](./slide/ase22-ltlsc-pre.pdf))
+- Daosong Hu, **Mingyue Cui\***, Kai Huang. 
+GHR-2D: Gaze and head redirection via disentanglement and diffusion for gaze estimation[J]. 
+*Engineering Applications of Artificial Intelligence (EAAI)*,2025, 160: 111901-111914. 
+(中科院一区，IF：8, 
+[paper](./paper/29-EAAI-2025.pdf))
 
-- **Weilin Luo**, Hai Wan\*, Jianfeng Du\*, Xiaoda Li, Yuze Fu, Rongzhen Ye, Delong Zhang. 
-Teaching LTLf Satisfiability Checking to Neural Networks. *Proceedings of the 31th International Joint Conference on Artificial Intelligence (IJCAI)*, 2022: 3292-3298.
-(CCF A, acceptance rate: 15%, 
-[paper](./paper/ijcai-ltlfsc-public.pdf), 
-[code](https://github.com/wanderer0205/LTLfNet), 
-[slide](./slide/ijcai22-ltlfsc-pre.pdf))
+- **Mingyue Cui**, Mingjian Feng, Junhua Long, Daosong Hu, Shuai Zhao (赵帅副教授), Kai Huang\*. 
+A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression[C]. *In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)*, 2024: 3796-3802.
+(机器人领域顶级会议，中国计算机学会 CCF 推荐 B 类国际会议, 
+[paper](./paper/12-ICRA-2024.pdf))
 
-- **Weilin Luo**, Pingjia Liang, Jianfeng Du\*, Hai Wan\*, Bo Peng, Delong Zhang. 
-Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae. 
-*Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI)*, 2022: 10283-10290. 
-(CCF A, acceptance rate: 15%, 
-[paper](./paper/aaai22-gltlfl-public.pdf), 
-[code](https://github.com/a79461378945/Bridging-LTLf-Inference-to-GNN-Inference-for-Learning-LTLf-Formulae), 
-[slide](./slide/aaai22-gltlfl-pre.pdf), 
-[poster](./slide/aaai22-gltlfl-poster-landscape.pdf))
+- **Mingyue Cui**, Yuzhang Zhu, Yechang Liu, Yunchao Liu,Gang Chen, Kai Huang\*. 
+Dense Depth-Map Estimation Based on Fusion of Event Camera and Sparse LiDAR[J]. 
+*IEEE Transactions on Instrumentation and Measurement (TIM)*, 2022, 71:1-11. 
+(中科院二区，IF：5.9, 
+[paper](./paper/9-TIM-2022.pdf))
 
-- **Weilin Luo**, Rongzhen Ye, Hai Wan\*, Shaowei Cai\*, Biqing Fang, Delong Zhang. 
-Improving Local Search Algorithms via Probabilistic Configuration Checking. 
-*Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI)*, 2022: 9849-9857. 
-(CCF A, acceptance rate: 15%, 
-[paper](./paper/aaai-pcc-public.pdf), 
-[slide](./slide/aaai22-pcc-pre.pdf),
-[poster](./slide/aaai22-pcc-poster-landscape.pdf))
+- **Mingyue Cui**, Shipeng Zhong, Siyao Liu, Boyang Li, Chenghao Wu, Kai Huang\*. 
+Cooperative LiDAR SLAM for Multi-vehicles Based on Edge Computing[J]. 
+*中国图象图形学报*, 2021, 26(01):0218-0228. 
+(中国计算机学会 CCF 推荐 T2 类中文期刊, 
+[paper](./paper/7-中国图象图形学报-2021.pdf))
 
-- **Weilin Luo**, Hai Wan\*, Hongzhen Zhong, Ou Wei, Biqing Fang, Xiaotong Song. 
-An Efficient Two-phase Method for Prime Compilation of Non-clausal Boolean Formulae. 
-*Proceedings of the 40th International Conference On Computer Aided Design (ICCAD)*, 2021: 1-9. 
-(CCF B, one of the top-tier conferences in CAD, 
-[paper](./paper/iccad21-pi-public.pdf), 
-[code](https://github.com/LuoWeiLinWillam/CoAPI), 
-[slide](./slide/iccad21-51-pre.pdf))
+- **Mingyue Cui**, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang\*. 
+An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C] 
+*In Proceedings of the IEEE International Conference on Robotics and Biomimetics*, 2024:1-6. 
+([paper](./paper/20-Robio-2024.pdf))
 
 - **Weilin Luo**, Hai Wan\*, Xiaotong Song, Binhao Yang, Hongzhen Zhong, Yin Chen. 
 How to Identify Boundary Conditions with Contrasty Metric? 
@@ -236,6 +219,7 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - 2016-2017 南京航空航天大学科研创新先进个人
 
 - 2013-2014 国家奖学金
+
 
 
 
