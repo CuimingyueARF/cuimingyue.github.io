@@ -104,41 +104,27 @@ An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C]
 *In Proceedings of the IEEE International Conference on Robotics and Biomimetics*, 2024:1-6. 
 ([paper](./paper/20-Robio-2024.pdf))
 
-- **Weilin Luo**, Hai Wan\*, Xiaotong Song, Binhao Yang, Hongzhen Zhong, Yin Chen. 
-How to Identify Boundary Conditions with Contrasty Metric? 
-*Proceedings of the 43rd International Conference on Software Engineering (ICSE)*, 2021: 1473-1484. 
-(CCF A, 
-[paper](./paper/icse21-cbc-public.pdf), 
-[slide](./slide/icse21-cbc-pre.pdf))
+- Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, **Mingyue Cui\***. 
+An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C]. 
+*In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, 2024:382-387. 
+([paper](./paper/13-ICARM-2024.pdf))
 
-- **Weilin Luo**, Ou Wei, Hai Wan\*. 
-SATMCS: An Efficient SAT-Based Algorithm and Its Improvements for Computing Minimal Cut Sets. 
-*IEEE Transactions on Reliability*, 2021, 70(2): 575-589. 
-(中科院2区, IF: 5.883, one of the top-tier conferences in reliability, 
-[paper](./paper/TR20-mcs-public.pdf), 
-[code](https://github.com/LuoWeiLinWillam/SatFTA))
+- **Mingyue Cui**, Jiakang Zhang, Mingjian Feng, Yuyang Zhong, Yanwei Lu, Chunjie Shu, Yehui Li\*, Weibing Li. 
+A Hierarchical Plane-Quadric Surface Fitting Based Framework for Real-Time LiDAR Point Cloud Compression[C]. 
+*In Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)*, 2025. 
+(最佳口头汇报奖,  
+[paper](./paper/32-IWACIII-2025.pdf))
 
-- Hai Wan, Haicheng Chen, Jianfeng Du\*, **Weilin Luo**, Rongzhen Ye.
-A DQN-based Approach to Finding Precise Evidences for Fact Verification. 
-*Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL/IJCNLP)*, 2021: 1030-1039.
-(CCF A,
-[paper](./paper/acl21-fv-public.pdf), 
-[code](https://github.com/sysulic/DQN-FV))
+- Yehui Li, Yujing Kuang, **Mingyue Cui\***, Weibing Li.
+A Novel Shape Estimation Strategy for Continuum Robots Using Multiple Hall-effect Sensors and IMUs[C]. 
+*Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)*, 2025.
+([paper](./paper/31-IWACIII-2025.pdf))
 
-- Hongzhen Zhong, Hai Wan\*, **Weilin Luo**, Zhanhao Xiao, Jia Li, Biqing Fang.
-Structural Similarity of Boundary Conditions and an Efficient Local Search Algorithm for Goal Conflict Identification. 
-*Proceedings of the 27th Asia-Pacific Software Engineering Conference (APSEC)*, 2020: 286-295.
-(CCF C, 
-[paper](./paper/apsec20-bci-public.pdf), 
-[slide](./slide/apsec20-bci-pre.pdf))
-
-- **Weilin Luo**, Ou Wei\*. 
-WAP: SAT-Based Computation of Minimal Cut Sets. 
-*Proceedings of the 28th IEEE International Symposium on Software Reliability Engineering (ISSRE)*, 2017: 146-151. 
-(CCF B, 
-[paper](./paper/issre17-mcs-public.pdf), 
-[code](https://github.com/LuoWeiLinWillam/SatFTA), 
-[slide](./slide/issre17-mcs-pre.pdf))
+- Yanchong Xie, Jiepeng Chen, Kai Zheng, Haoyang Huang, Zhanshang Nie, Minglong Zheng, Kai Huang, **Mingyue Cui\***.
+DSTNN-X: ECG Arrhythmia Classification using Deep Spatio-Temporal Learning with Multi-Lead Contextual Aggregation[C]. 
+*In Proceedings of the International Conference on Service Robotics (ICoSR)*, 2025.
+(最佳论文奖, 
+[paper](./paper/28-ICoSR_2025.pdf))
 
 <!-- ## Education
 
@@ -219,6 +205,7 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - 2016-2017 南京航空航天大学科研创新先进个人
 
 - 2013-2014 国家奖学金
+
 
 
 
