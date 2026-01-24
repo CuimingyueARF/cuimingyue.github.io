@@ -50,7 +50,7 @@ LNet: Lightweight Network for Driver Attention Estimation via Scene and Gaze Con
 OctFormer: Efficient octree-based transformer for point cloud compression with local enhancement[C]. 
 *In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2023: 470-478.
 (中国计算机学会 CCF 推荐 A 类国际会议,
-[paper](./paper/10-AAAI-OctFormer_Efficient Octree-based Transformer for Point Cloud Compression.pdf))
+[paper](./paper/10-AAAI-2023.pdf))
 
 - **Weilin Luo**, Yuhang Zheng, Rongzhen Ye, Hai Wan\*, Jianfeng Du\*, Pingjia Liang, Polong Chen. 
 SAT-verifiable LTL Satisfiability Checking via Graph Representation Learning.
@@ -236,6 +236,7 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - 2016-2017 南京航空航天大学科研创新先进个人
 
 - 2013-2014 国家奖学金
+
 
 
 
