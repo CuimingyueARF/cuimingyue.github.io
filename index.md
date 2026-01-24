@@ -28,28 +28,23 @@ I now focus on learning formal languages and satisfiability checking for linear 
 (中科院一区，IF：11.1,
 [paper](./paper/26-TCSVT_2025.pdf))
 
-- **Weilin Luo**, Pingjia Liang, Junming Qiu, Polong Chen, Hai Wan\*, Jianfang Du\*, Weiyuan Fang.
-Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking. 
-*Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2024: 996-1008.
-(CCF A,
-[paper](./paper/issta24-ltlvsc-publish.pdf), 
-[code](https://github.com/sysulic/VSCNet), 
-[slide](./slide/issta-ltlvsc-pre.pdf))
+- **Mingyue Cui**, Yuyang Zhong, Mingjian Feng, Junhua Long, Jinhong Xia, Kai Huang\*.
+DAPCC: Diverse Attention-based Entropy Model for Dynamic LiDAR Point Cloud Compression[J]. 
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025, 63:1-13. 
+(中科院一区，IF：8.6,
+[paper](./paper/27-TGRS-2025.pdf))
 
-- **Weilin Luo**, Polong Chen, Hai Wan\*, Hongzhen Zhong, Shaowei Cai\*, Zhanhao Xiao. j
-Goal-conflict Identification Based on Local Search and Fast Boundary-condition Verification Based on Incremental Satisfiability Filter. 
-*Journal of Systems and Software (JSS)*, 2024, 213: 112036.
-(CCF B, 中科院2区, IF: 3.5,
-[paper](./paper/JSS22-gci-public.pdf), 
-[code](https://github.com/sysulic/LOGION-SWLS-TBC-LISF))
+- **Mingyue Cui**, Yuyang Zhong, Mingjian Feng, Junhua Long, Jinhong Xia, Kai Huang\*.
+A Self-Attention-Based LiDAR Point Cloud Compression Framework in Autonomous Driving Environments[J]. 
+*IEEE Transactions on Industrial Informatics (TII)*, 2026, 1-13.
+(中科院一区，IF：9.9,
+[paper](./paper/none.pdf))
 
-- **Weilin Luo**, Weiyuan Fang, Qiu Junming, Hai Wan\*, Yanan Liu, Rongzhen Ye. 
-ITG: Trace Generation via Iterative Interaction between LLM Query and Trace Checking. 
-*Proceedings of the 46th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)*, 2024: 11-15. 
-(CCF A,
-[paper](./paper/icse24-llmsc-public.pdf), 
-[code](https://github.com/sysulic/ITG), 
-[slide](./slide/ITG_presentation.pdf))
+- Daosong Hu, Xi Li, **Mingyue Cui\***, Kai Huang. 
+LNet: Lightweight Network for Driver Attention Estimation via Scene and Gaze Consistency[J]. 
+* IEEE Transactions on Image Processing (TIP)*, 2026, 35:27-41. 
+(中科院一区，IF：13.7,
+[paper](./paper/35-TIP-2025.pdf))
 
 - Hai Wan, Pingjia Liang, Jianfeng Du\*, **Weilin Luo**, Rongzhen Ye, Bo Peng. 
 End-to-End Learning of LTLf Formulae by Faithful LTLf Encoding. 
@@ -244,4 +239,5 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - 2016-2017 南京航空航天大学科研创新先进个人
 
 - 2013-2014 国家奖学金
+
 
