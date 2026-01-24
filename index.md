@@ -46,14 +46,11 @@ LNet: Lightweight Network for Driver Attention Estimation via Scene and Gaze Con
 (中科院一区，IF：13.7,
 [paper](./paper/35-TIP-2025.pdf))
 
-- Hai Wan, Pingjia Liang, Jianfeng Du\*, **Weilin Luo**, Rongzhen Ye, Bo Peng. 
-End-to-End Learning of LTLf Formulae by Faithful LTLf Encoding. 
-*Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI)*, 2024, 9071-9079.
-(CCF A, acceptance rate: 23.75%,
-[paper](./paper/aaai24-tltlfl-publish.pdf), 
-[code](https://github.com/a79461378945/TLTLf), 
-[slide](./slide/aaai24-TLTLf-pre.pdf),
-[poster](./slide/aaai24-poster-landscape.pdf))
+- **Mingyue Cui**, Junhua Long, Mingjian Feng, Boyang Li, Kai Huang\*. 
+OctFormer: Efficient octree-based transformer for point cloud compression with local enhancement[C]. 
+*In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2023: 470-478.
+(中国计算机学会 CCF 推荐 A 类国际会议,
+[paper](./paper/10-AAAI-OctFormer_Efficient Octree-based Transformer for Point Cloud Compression.pdf))
 
 - **Weilin Luo**, Yuhang Zheng, Rongzhen Ye, Hai Wan\*, Jianfeng Du\*, Pingjia Liang, Polong Chen. 
 SAT-verifiable LTL Satisfiability Checking via Graph Representation Learning.
@@ -239,6 +236,7 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - 2016-2017 南京航空航天大学科研创新先进个人
 
 - 2013-2014 国家奖学金
+
 
 
 
