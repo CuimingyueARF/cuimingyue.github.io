@@ -297,6 +297,55 @@
         </span>
     </span>
 </div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Han Liu, Tian Liu, <strong>Mingyue Cui</strong>, Yunxiao Shan, Shuai Zhao, Kai Huang*.
+    An Efficient Position Reconfiguration Approach for Maximizing Lifetime of Fixed-wing Swarm Drones.
+    <cite>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</cite>, 2024.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/14-IROS-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Yewei Gan, Yanchong Xie, <strong>Mingyue Cui*</strong>, Kai Huang.
+    Cformer: A hybrid CNN-Transformer framework for 12-lead ECG denoising.
+    <cite>IEEE International Conference on Electronic Information Engineering and Computer Science (EIECS)</cite>, 2024.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/16-EIECS-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Qiang Zhang, <strong>Mingyue Cui</strong>, Yue Liu, Weichong Chen, Zhiyi Yu*.
+    Low-Power and Low-Cost AI Processor with Distributed-Aggregated Classification Architecture for Wearable Epilepsy Seizure Detection.
+    <cite>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</cite>, 2024, 19(1):28-39.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/18-IEEE .pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Shuai Liu, Boyang Li, Zhiyu Fang, <strong>Mingyue Cui</strong>, Kai Huang*.
+    FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors.
+    <cite>Neural Information Processing Systems (NIPS)</cite>, 2024, 19(1):28-39.
+    <span class="ccf-tag">(CCF-A,</span>
+      <span class="publication-links">
+            <a href="./paper/19-nips-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+
+
+
+
 
 <h2>Education</h2>
 <div class="publication">
@@ -507,6 +556,7 @@
 }
 </body>
 </html>
+
 
 
 
