@@ -392,7 +392,7 @@
     Han Liu, Yu Jin, <strong>Mingyue Cui</strong>, Boyang Li, Tianjian Hu, Kai Huang*.
     From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems.
     <cite>IEEE Transactions on Automation Science and Engineering (TASE)</cite>, 2025.
-    <span class="ccf-tag">(</span><span class="publication-links">
+    <span class="publication-links">(
             <a href="./paper/36-TASE-2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
@@ -607,6 +607,7 @@
 }
 </body>
 </html>
+
 
 
 
