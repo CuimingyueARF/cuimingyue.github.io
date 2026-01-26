@@ -375,9 +375,28 @@
         </span>
     </span>
 </div>
-
-
-
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Boyang Li, Siheng Ren, Shuai Zhao, <strong>Mingyue Cui</strong>, Kai Huang*.
+    FedPillarNet: Unifying personalized and global features for federated 3D LiDAR object detection.
+    <cite>Journal of Systems Architecture (JSA)</cite>, 2025.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/34-JSA-2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Han Liu, Yu Jin, <strong>Mingyue Cui</strong>, Boyang Li, Tianjian Hu, Kai Huang*.
+    From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems.
+    <cite>IEEE Transactions on Automation Science and Engineering (TASE)</cite>, 2025.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/36-TASE-2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
 
 <h2>Education</h2>
 <div class="publication">
@@ -588,6 +607,7 @@
 }
 </body>
 </html>
+
 
 
 
