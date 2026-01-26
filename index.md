@@ -103,7 +103,7 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    <strong>Mingyue Cui</strong>, Shipeng Zhong, Boyang Li, Xu Chen (陈旭教授), Kai Huang*.
+    <strong>Mingyue Cui</strong>, Shipeng Zhong, Boyang Li, Xu Chen, Kai Huang*.
     Offloading Autonomous Driving Services via Edge Computing[J].
     <cite>IEEE Internet of Things Journal (IOTJ)</cite>, 2020, 7(10):10535-10547.
     <span class="ccf-tag">(中科院一区, IF：8.9,</span>
@@ -151,7 +151,7 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    <strong>Mingyue Cui</strong>, Mingjian Feng, Junhua Long, Daosong Hu, Shuai Zhao (赵帅副教授), Kai Huang*.
+    <strong>Mingyue Cui</strong>, Mingjian Feng, Junhua Long, Daosong Hu, Shuai Zhao, Kai Huang*.
     A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression[C].
     <cite>In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2024: 3796-3802.
     <span class="ccf-tag">(机器人领域顶级会议, 中国计算机学会 CCF 推荐 B 类国际会议,</span>
@@ -595,6 +595,7 @@
 }
 </body>
 </html>
+
 
 
 
