@@ -335,14 +335,46 @@
     <span class="content">
     Shuai Liu, Boyang Li, Zhiyu Fang, <strong>Mingyue Cui</strong>, Kai Huang*.
     FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors.
-    <cite>Neural Information Processing Systems (NIPS)</cite>, 2024, 19(1):28-39.
+    <cite>Neural Information Processing Systems (NIPS)</cite>, 2025.
     <span class="ccf-tag">(CCF-A,</span>
       <span class="publication-links">
             <a href="./paper/19-nips-.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
-
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Shuai Liu, <strong>Mingyue Cui</strong>, Boyang Li*.Quanmin Liang, Tinghe Hong, Yunxiao Shan, Kai Huang.
+    FSHNet: Fully Sparse Hybrid Network for 3D Object Detection.
+    <cite>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</cite>, 2025.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/25-CVPR-2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Zefeng Li, <strong>Mingyue Cui</strong>, Daosong Hu, Jin Gong, Jingchong Weng, Zeyu Zhang, Lele Tian, Mengran Li, Kai Huang*.
+    A Two-Stage Method for Specular Highlight Detection and Removal in Medical Images.
+    <cite>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</cite>, 2025, 23-33.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/29-MICCAI_2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Siheng Ren, Boyang Li, Shuai Liu, Jiahui Liao, <strong>Mingyue Cui</strong>, Kai Huang*.
+    TeamFed: Teamwork Principles-Inspired Federated Learning for 3D Object Detection.
+    <cite>Pattern Recognition and Computer Vision Conference (PRCV)</cite>, 2025.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
 
 
 
@@ -556,6 +588,7 @@
 }
 </body>
 </html>
+
 
 
 
