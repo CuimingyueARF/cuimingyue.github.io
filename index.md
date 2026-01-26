@@ -166,7 +166,7 @@
     <strong>Mingyue Cui</strong>, Yuzhang Zhu, Yechang Liu, Yunchao Liu,Gang Chen, Kai Huang*.
     Dense Depth-Map Estimation Based on Fusion of Event Camera and Sparse LiDAR[J].
     <cite>IEEE Transactions on Instrumentation and Measurement (TIM)</cite>, 2022, 71:1-11.
-    <span class="ccf-tag">(中科院而去, IF: 5.9, </span>
+    <span class="ccf-tag">(中科院二区, IF: 5.9, </span>
         <span class="publication-links">
             <a href="./paper/9-TIM-2022.pdf" target="_blank">paper</a>)
         </span>
@@ -202,8 +202,7 @@
     <strong>Mingyue Cui</strong>, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang*.
     An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C].
     <cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2024:1-6.
-    <span class="ccf-tag">( </span>
-        <span class="publication-links">
+    <span class="ccf-tag">( </span><span class="publication-links">
             <a href="./paper/20-Robio-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
@@ -214,8 +213,7 @@
     Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>
     An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
     <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="ccf-tag">(</span>
-        <span class="publication-links">
+    <span class="ccf-tag">(</span><span class="publication-links">
             <a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
@@ -250,9 +248,52 @@
     Yehui Li, Yujing Kuang, <strong>Mingyue Cui*</strong>, Weibing Li.
     A Novel Shape Estimation Strategy for Continuum Robots Using Multiple Hall-effect Sensors and IMUs[C].
     <cite>Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)</cite>, 2025.
-    <span class="ccf-tag">(</span>
-        <span class="publication-links">
+    <span class="ccf-tag">(</span><span class="publication-links">
             <a href="./paper/31-IWACIII-2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Long Chen, <strong>Mingyue Cui</strong>, Feihu Zhang, Biao Hu, Kai Huang*.
+    High-Speed Scene Flow on Embedded Commercial Off-the-Shelf Systems.
+    <cite>IEEE Transactions on Industrial Informatics (TII)</cite>, 2019, 15(4):1843-1852.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/4-TII-2019.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Boyang Li, Sijian Liu, <strong>Mingyue Cui</strong>, Zhihao Zhao, Kai Huang*.
+    Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
+    <cite>电子学报</cite>, 2021, 49(11):2241-2250.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/6-电子学报-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Boyang Li, Hao Meng, Yuzhang Zhu, Rihui Song,  <strong>Mingyue Cui</strong>, Gang Chen, Kai Huang*.
+    Enhancing 3-D LiDAR Point Clouds With Event-Based Camera.
+    <cite>IEEE transactions on Instrumentation and Measurement (TIM)</cite>, 2021.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/8-TIM-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
+    Accelerated Optimization for Simulation of Brain Spiking Neural Network on GPGPUs.
+    <cite>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</cite>, 2024, 172-189.
+    <span class="ccf-tag">(</span><span class="publication-links">
+            <a href="./paper/11-ICA3PP-.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -466,6 +507,7 @@
 }
 </body>
 </html>
+
 
 
 
