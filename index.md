@@ -202,8 +202,7 @@
     <strong>Mingyue Cui</strong>, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang*.
     An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C].
     <cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2024:1-6.
-    <span class="ccf-tag">( </span><span class="publication-links">
-            <a href="./paper/20-Robio-2024.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/20-Robio-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -213,8 +212,7 @@
     Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>
     An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
     <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -248,8 +246,7 @@
     Yehui Li, Yujing Kuang, <strong>Mingyue Cui*</strong>, Weibing Li.
     A Novel Shape Estimation Strategy for Continuum Robots Using Multiple Hall-effect Sensors and IMUs[C].
     <cite>Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)</cite>, 2025.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/31-IWACIII-2025.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/31-IWACIII-2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -259,8 +256,7 @@
     Long Chen, <strong>Mingyue Cui</strong>, Feihu Zhang, Biao Hu, Kai Huang*.
     High-Speed Scene Flow on Embedded Commercial Off-the-Shelf Systems.
     <cite>IEEE Transactions on Industrial Informatics (TII)</cite>, 2019, 15(4):1843-1852.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/4-TII-2019.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/4-TII-2019.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -270,8 +266,7 @@
     Boyang Li, Sijian Liu, <strong>Mingyue Cui</strong>, Zhihao Zhao, Kai Huang*.
     Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
     <cite>电子学报</cite>, 2021, 49(11):2241-2250.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/6-电子学报-.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/6-电子学报-.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -281,8 +276,7 @@
     Boyang Li, Hao Meng, Yuzhang Zhu, Rihui Song,  <strong>Mingyue Cui</strong>, Gang Chen, Kai Huang*.
     Enhancing 3-D LiDAR Point Clouds With Event-Based Camera.
     <cite>IEEE transactions on Instrumentation and Measurement (TIM)</cite>, 2021.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/8-TIM-.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/8-TIM-.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -292,8 +286,7 @@
     Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
     Accelerated Optimization for Simulation of Brain Spiking Neural Network on GPGPUs.
     <cite>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</cite>, 2024, 172-189.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/11-ICA3PP-.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/11-ICA3PP-.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -303,8 +296,7 @@
     Han Liu, Tian Liu, <strong>Mingyue Cui</strong>, Yunxiao Shan, Shuai Zhao, Kai Huang*.
     An Efficient Position Reconfiguration Approach for Maximizing Lifetime of Fixed-wing Swarm Drones.
     <cite>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</cite>, 2024.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/14-IROS-.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/14-IROS-.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -314,8 +306,7 @@
     Yewei Gan, Yanchong Xie, <strong>Mingyue Cui*</strong>, Kai Huang.
     Cformer: A hybrid CNN-Transformer framework for 12-lead ECG denoising.
     <cite>IEEE International Conference on Electronic Information Engineering and Computer Science (EIECS)</cite>, 2024.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/16-EIECS-.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/16-EIECS-.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -325,8 +316,7 @@
     Qiang Zhang, <strong>Mingyue Cui</strong>, Yue Liu, Weichong Chen, Zhiyi Yu*.
     Low-Power and Low-Cost AI Processor with Distributed-Aggregated Classification Architecture for Wearable Epilepsy Seizure Detection.
     <cite>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</cite>, 2024, 19(1):28-39.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/18-IEEE .pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/18-IEEE .pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -348,8 +338,7 @@
     Shuai Liu, <strong>Mingyue Cui</strong>, Boyang Li*.Quanmin Liang, Tinghe Hong, Yunxiao Shan, Kai Huang.
     FSHNet: Fully Sparse Hybrid Network for 3D Object Detection.
     <cite>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</cite>, 2025.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/25-CVPR-2025.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/25-CVPR-2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -359,7 +348,7 @@
     Zefeng Li, <strong>Mingyue Cui</strong>, Daosong Hu, Jin Gong, Jingchong Weng, Zeyu Zhang, Lele Tian, Mengran Li, Kai Huang*.
     A Two-Stage Method for Specular Highlight Detection and Removal in Medical Images.
     <cite>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</cite>, 2025, 23-33.
-    <span class="ccf-tag">(</span><span class="publication-links">
+    <span class="ccf-tag">(CCF-B,</span><span class="publication-links">
             <a href="./paper/29-MICCAI_2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
@@ -370,8 +359,7 @@
     Siheng Ren, Boyang Li, Shuai Liu, Jiahui Liao, <strong>Mingyue Cui</strong>, Kai Huang*.
     TeamFed: Teamwork Principles-Inspired Federated Learning for 3D Object Detection.
     <cite>Pattern Recognition and Computer Vision Conference (PRCV)</cite>, 2025.
-    <span class="ccf-tag">(</span><span class="publication-links">
-            <a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -381,7 +369,7 @@
     Boyang Li, Siheng Ren, Shuai Zhao, <strong>Mingyue Cui</strong>, Kai Huang*.
     FedPillarNet: Unifying personalized and global features for federated 3D LiDAR object detection.
     <cite>Journal of Systems Architecture (JSA)</cite>, 2025.
-    <span class="ccf-tag">(</span><span class="publication-links">
+    <span class="ccf-tag">(CCF-B,</span><span class="publication-links">
             <a href="./paper/34-JSA-2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
@@ -392,7 +380,8 @@
     Han Liu, Yu Jin, <strong>Mingyue Cui</strong>, Boyang Li, Tianjian Hu, Kai Huang*.
     From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems.
     <cite>IEEE Transactions on Automation Science and Engineering (TASE)</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/36-TASE-2025.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(中科院二区, IF：5.7
+      <a href="./paper/36-TASE-2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -606,6 +595,7 @@
 }
 </body>
 </html>
+
 
 
 
