@@ -517,73 +517,73 @@
 </div>
 
 <h2>Awards/Honors</h2>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2022 广东省计算机学会优秀论文, 三等奖, 第一完成人
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2022 中山大学优秀博士论文
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2022 中山大学优秀毕业生
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2020-2021 国家奖学金
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2021 广东省计算机学会科学技术奖, 二等奖, 第四完成人
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2020 中国电子学会科学技术奖, 三等奖, 第六完成人
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2016 工信部创新创业奖学金创新奖学金, 二等奖, 第一完成人
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2016-2017 国家奖学金
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2015-2017 南京航空航天大学奖学金, 一等奖
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2016-2017 南京航空航天大学三好研究生
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2016-2017 南京航空航天大学科研创新先进个人
     </span>
 </div>
-<div class="publication">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2013-2014 国家奖学金
@@ -607,6 +607,7 @@
 }
 </body>
 </html>
+
 
 
 
