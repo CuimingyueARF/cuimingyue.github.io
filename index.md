@@ -13,7 +13,7 @@
 <body>  
     <h1>Mingyue Cui</h1>
     
-    <img src="./picture/Cuimingyue1.png" alt="Mingyue Cui" class="profile-img">
+    <img src="./picture/cuimingyue2.png" alt="Mingyue Cui" class="profile-img">
     
    <p style="text-align: justify; text-justify: inter-word; line-height: 1.6; margin: 0 0 1em;">
     I am now an Associate Researcher in School of Computer Science and Engineering, Sun Yat-sen University (SYSU). Before that I got my Ph.D. degree in <a href="https://cse.sysu.edu.cn/">School of Computer Science and Engineering, Sun Yat-sen University (SYSU)</a>.
@@ -595,6 +595,7 @@
 }
 </body>
 </html>
+
 
 
 
