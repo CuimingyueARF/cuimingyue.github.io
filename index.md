@@ -451,13 +451,13 @@
     
     <!-- 方案1：本地视频 -->
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-        <h3>心电衣新闻报道</h3>
+        <h3>心脏性猝死综合防治人工智能可穿戴预警设备</h3>
         <video controls style="width: 100%; border-radius: 8px;">
             <source src="./video/心电衣.mp4" type="video/mp4">
             <!-- 备用：如果视频无法播放，显示链接 -->
             <p>视频无法播放？<a href="./videos/ecg_clothing.mp4" download>点击下载</a></p>
         </video>
-        <p style="color: #666; margin-top: 10px;">CCTV-13新闻报道</p>
+        <p style="color: #666; margin-top: 10px;">CCTV-13对心电衣的新闻报道</p>
     </div>
     
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
@@ -466,7 +466,7 @@
              display: flex; align-items: center; justify-content: center; color: #666;">
             视频播放器
         </div>
-        <p style="color: #666;">手术机器人技术演示</p>
+        <p style="color: #666;">CCTV13对手术机器人的新闻报道</p>
     </div>   
 </div>
 
@@ -620,6 +620,7 @@
 }
 </body>
 </html>
+
 
 
 
