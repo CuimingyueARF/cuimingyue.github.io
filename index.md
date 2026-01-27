@@ -477,9 +477,9 @@
     <!-- 图片1：心电衣产品 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
-            <img src="./images/ecg_product.jpg" alt="心电衣产品实物图"
+            <img src="./picture/工业机器人.jpg" alt="工业机器人"
                  style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
-            <h4 style="margin: 0 0 8px;">心电衣产品</h4>
+            <h4 style="margin: 0 0 8px;">工业机器人实物</h4>
             <p style="color: #666; font-size: 0.9em;">实物展示</p>
         </div>
     </div>
@@ -487,30 +487,30 @@
     <!-- 图片2：点云压缩 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
-            <img src="./images/point_cloud.jpg" alt="点云压缩效果对比图"
+            <img src="./picture/无人车.png" alt="无人车"
                  style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
-            <h4 style="margin: 0 0 8px;">点云压缩</h4>
-            <p style="color: #666; font-size: 0.9em;">效果对比</p>
+            <h4 style="margin: 0 0 8px;">无人车实物</h4>
+            <p style="color: #666; font-size: 0.9em;">实物展示</p>
         </div>
     </div>
 
     <!-- 图片3：技术原理 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
-            <img src="./images/technology.jpg" alt="技术原理示意图"
+            <img src="./picture/无人船.gif" alt="无人船"
                  style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
-            <h4 style="margin: 0 0 8px;">技术原理</h4>
-            <p style="color: #666; font-size: 0.9em;">架构示意图</p>
+            <h4 style="margin: 0 0 8px;">无人船实物</h4>
+            <p style="color: #666; font-size: 0.9em;">实物展示</p>
         </div>
     </div>
 
     <!-- 图片4：实验结果 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
-            <img src="./images/results.jpg" alt="实验结果可视化图"
+            <img src="./picture/仿生蝴蝶机器人.jpg" alt="仿生蝴蝶机器人"
                  style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
-            <h4 style="margin: 0 0 8px;">实验结果</h4>
-            <p style="color: #666; font-size: 0.9em;">可视化展示</p>
+            <h4 style="margin: 0 0 8px;">仿生蝴蝶机器人实物</h4>
+            <p style="color: #666; font-size: 0.9em;">实物展示</p>
         </div>
     </div>
 
@@ -625,6 +625,7 @@
 }
 </body>
 </html>
+
 
 
 
