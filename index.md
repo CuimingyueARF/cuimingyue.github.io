@@ -508,73 +508,91 @@
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2022 广东省计算机学会优秀论文, 三等奖, 第一完成人
+    2025 蓝计划大学生创意创新项目大赛广东赛区, 三等奖, 指导老师
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2022 中山大学优秀博士论文
+    2025 IWACIII 会议, Best Presentation Award
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2022 中山大学优秀毕业生
+    2025 ICoSR 会议, Best Paper
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2020-2021 国家奖学金
+    2025 十八届中山大学“赢在中大”优秀指导教师奖
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2021 广东省计算机学会科学技术奖, 二等奖, 第四完成人
+    2025 中山大学本科生校级优秀毕业论文, 指导老师
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2020 中国电子学会科学技术奖, 三等奖, 第六完成人
+    2025 第十七、十八届中山大学“赢在中大”创意组, 铜奖
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2016 工信部创新创业奖学金创新奖学金, 二等奖, 第一完成人
+    2024 中山大学博士后创新创业大赛, 铜奖
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2016-2017 国家奖学金
+    2024 广东省人工智能产业协会, 科技进步奖
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2015-2017 南京航空航天大学奖学金, 一等奖
+    2024 中山大学本科生校级优秀毕业论文, 指导老师
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2016-2017 南京航空航天大学三好研究生
+    2023 CCF 移动机器人抓取和导航挑战赛, 一等奖
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2016-2017 南京航空航天大学科研创新先进个人
+    2023 挑战杯 全国大学生课外学术科技作品竞赛, 二等奖
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2013-2014 国家奖学金
+    2023 中国广东省教育厅中国大学生“互联网+”创新创业大赛, 铜奖
+    </span>
+</div>
+div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
+    <span class="bullet">•</span>
+    <span class="content">
+    2023 国际智能机器人大赛, 二等奖, 指导老师
+    </span>
+</div>
+div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
+    <span class="bullet">•</span>
+    <span class="content">
+    2021 世界5G大会-5G应用设计揭榜赛, 二等奖（高校组）
+    </span>
+</div>
+div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
+    <span class="bullet">•</span>
+    <span class="content">
+    2019 国际智能机器人大赛, 一等奖
     </span>
 </div>
 
@@ -595,6 +613,7 @@
 }
 </body>
 </html>
+
 
 
 
