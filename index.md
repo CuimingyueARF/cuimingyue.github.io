@@ -445,7 +445,7 @@
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
-<h2>Research Group Achievements</h2>
+<h2>Achievement Showcase</h2>
     <!-- 视频1 -->
 <div style="text-align: center; margin: 40px 0;">
     <h3>测试视频1</h3>
@@ -574,6 +574,7 @@
 }
 </body>
 </html>
+
 
 
 
