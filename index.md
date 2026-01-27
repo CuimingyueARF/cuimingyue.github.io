@@ -448,7 +448,7 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
     
     <!-- 视频1 -->
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin: 30px 0;">
+    <div style="background: #f9f9f9; padding: 20px; border-radius: 10px;">
         <h3 style="text-align: center;">心脏性猝死综合防治人工智能可穿戴预警设备</h3>
         <video controls style="width: 100%; border-radius: 6px; margin: 15px 0;">
             <source src="./video/心电衣.mp4" type="video/mp4">
@@ -457,7 +457,7 @@
     </div>
     
     <!-- 视频2 -->
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin: 30px 0;">
+    <div style="background: #f9f9f9; padding: 20px; border-radius: 10px;">
         <h3 style="text-align: center;">眼科手术机器人/h3>
         <video controls style="width: 100%; border-radius: 6px; margin: 15px 0;">
             <source src="./video/research_demo.mp4" type="video/mp4">
@@ -465,8 +465,6 @@
         <p style="text-align: center; color: #666;"></p>
     </div>   
 </div>
-<h2 style="margin-top: 60px;">Project Images</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
 
     <!-- 图片1 -->
     <div style="flex: 0 0 calc(50% - 30px); min-width: 250px; max-width: 400px; text-align: center;">
@@ -619,6 +617,7 @@
 }
 </body>
 </html>
+
 
 
 
