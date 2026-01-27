@@ -471,7 +471,6 @@
 </div>
 
 <!-- 图片区域 -->
-<h2 style="margin-top: 60px; text-align: center;">Project Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin: 40px 0;">
 
     <div style="text-align: center;">
@@ -621,6 +620,7 @@
 }
 </body>
 </html>
+
 
 
 
