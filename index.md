@@ -444,6 +444,27 @@
     </span>
 </div>
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
+<h2>Research Group Achievements</h2>
+    <!-- 视频1 -->
+    <div style="background: #f9f9f9; padding: 20px; border-radius: 10px;">
+        <h3 style="text-align: center;">测试视频1</h3>
+        <video controls style="width: 100%; border-radius: 6px; margin: 15px 0;">
+            <source src="./video/心电衣.mp4" type="video/mp4">
+        </video>
+        <p style="text-align: center; color: #666;">心电衣新闻报道</p>
+    </div>
+    
+    <!-- 视频2 -->
+    <div style="background: #f9f9f9; padding: 20px; border-radius: 10px;">
+        <h3 style="text-align: center;">测试视频2</h3>
+        <video controls style="width: 100%; border-radius: 6px; margin: 15px 0;">
+            <source src="./video/research_demo.mp4" type="video/mp4">
+        </video>
+        <p style="text-align: center; color: #666;">点云压缩技术演示</p>
+    </div>   
+</div>
+
 <h2>Awards/Honors</h2>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
@@ -553,6 +574,7 @@
 }
 </body>
 </html>
+
 
 
 
