@@ -449,13 +449,15 @@
 <!-- 视频区域 -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin: 40px 0;">
     
+    <!-- 方案1：本地视频 -->
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-        <h3 style="margin-bottom: 15px;">心脏性猝死综合防治人工智能可穿戴预警设备</h3>
-        <div style="width: 100%; aspect-ratio: 16/9; background: #e0e0e0; border-radius: 6px; margin: 15px 0; 
-             display: flex; align-items: center; justify-content: center; color: #666;">
-            视频播放器
-        </div>
-        <p style="color: #666;">CCTV-13 新闻报道</p>
+        <h3>心电衣新闻报道</h3>
+        <video controls style="width: 100%; border-radius: 8px;">
+            <source src="./videos/ecg_clothing.mp4" type="video/mp4">
+            <!-- 备用：如果视频无法播放，显示链接 -->
+            <p>视频无法播放？<a href="./videos/ecg_clothing.mp4" download>点击下载</a></p>
+        </video>
+        <p style="color: #666; margin-top: 10px;">CCTV-13新闻报道</p>
     </div>
     
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
@@ -619,6 +621,7 @@
 }
 </body>
 </html>
+
 
 
 
