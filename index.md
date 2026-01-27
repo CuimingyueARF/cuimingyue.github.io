@@ -444,12 +444,12 @@
     </span>
 </div>
 
-<h2>Test</h2>
+<h2>Achievement Showcase</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
     
     <!-- 视频1 -->
-    <div style="background: #f9f9f9; padding: 20px; border-radius: 10px;">
-        <h3 style="text-align: center;">心电衣新闻报道</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin: 30px 0;">
+        <h3 style="text-align: center;">心脏性猝死综合防治人工智能可穿戴预警设备</h3>
         <video controls style="width: 100%; border-radius: 6px; margin: 15px 0;">
             <source src="./video/心电衣.mp4" type="video/mp4">
         </video>
@@ -457,13 +457,57 @@
     </div>
     
     <!-- 视频2 -->
-    <div style="background: #f9f9f9; padding: 20px; border-radius: 10px;">
-        <h3 style="text-align: center;">测试视频2</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin: 30px 0;">
+        <h3 style="text-align: center;">眼科手术机器人/h3>
         <video controls style="width: 100%; border-radius: 6px; margin: 15px 0;">
             <source src="./video/research_demo.mp4" type="video/mp4">
         </video>
-        <p style="text-align: center; color: #666;">点云压缩技术演示</p>
+        <p style="text-align: center; color: #666;"></p>
     </div>   
+</div>
+<h2 style="margin-top: 60px;">Project Images</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
+
+    <!-- 图片1 -->
+    <div style="flex: 0 0 calc(50% - 30px); min-width: 250px; max-width: 400px; text-align: center;">
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 10px;">
+            <img src="./images/image1.jpg" alt="项目图片1" 
+                 style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px;">
+            <h4 style="margin: 15px 0 10px; color: #333;">项目展示1</h4>
+            <p style="color: #666; font-size: 0.9em;">心电衣产品实物图</p>
+        </div>
+    </div>
+
+    <!-- 图片2 -->
+    <div style="flex: 0 0 calc(50% - 30px); min-width: 250px; max-width: 400px; text-align: center;">
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 10px;">
+            <img src="./images/image2.jpg" alt="项目图片2" 
+                 style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px;">
+            <h4 style="margin: 15px 0 10px; color: #333;">项目展示2</h4>
+            <p style="color: #666; font-size: 0.9em;">点云压缩效果对比</p>
+        </div>
+    </div>
+
+    <!-- 图片3 -->
+    <div style="flex: 0 0 calc(50% - 30px); min-width: 250px; max-width: 400px; text-align: center;">
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 10px;">
+            <img src="./images/image3.jpg" alt="项目图片3" 
+                 style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px;">
+            <h4 style="margin: 15px 0 10px; color: #333;">项目展示3</h4>
+            <p style="color: #666; font-size: 0.9em;">技术原理示意图</p>
+        </div>
+    </div>
+
+    <!-- 图片4 -->
+    <div style="flex: 0 0 calc(50% - 30px); min-width: 250px; max-width: 400px; text-align: center;">
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 10px;">
+            <img src="./images/image4.jpg" alt="项目图片4" 
+                 style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px;">
+            <h4 style="margin: 15px 0 10px; color: #333;">项目展示4</h4>
+            <p style="color: #666; font-size: 0.9em;">实验结果可视化</p>
+        </div>
+    </div>
+
 </div>
 
 <h2>Awards/Honors</h2>
@@ -575,6 +619,7 @@
 }
 </body>
 </html>
+
 
 
 
