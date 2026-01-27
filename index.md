@@ -428,7 +428,7 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    黄凯, 黄凯, <strong>崔明月</strong>, 王震彬, 陈杰鹏, 张玉玲. 一一种基于编解码结构的小波双通道单导联心电去噪方法, 2023.10.27, 中国, CN202310835291.5.
+    黄凯, <strong>崔明月</strong>, 王震彬, 陈杰鹏, 张玉玲. 一一种基于编解码结构的小波双通道单导联心电去噪方法, 2023.10.27, 中国, CN202310835291.5.
     </span>
 </div>
 <div class="publication">
@@ -441,66 +441,6 @@
     <span class="bullet">•</span>
     <span class="content">
     黄凯, <strong>崔明月</strong>, 吴成昊, 刘云超, 王博, 罗宇翔. 一种基于三维激光雷达传感器的端到端点云数据压缩方法, 2021.08.06, 中国, CN202110454876.3.
-    </span>
-</div>
-
-<h2>Talk</h2>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking, ECNU可信软件学术沙龙, 论坛报告.
-        <span class="ccf-tag">(</span>
-        <span class="publication-links">
-            <a href="./slide/ECNU-ltlvsc-pre-20240923.pdf" target="_blank">slide</a> )
-          </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    基于神经符号融合推理的可验证的线性时态逻辑可满足性近似检测, 中国计算机学会人工智能会议 (CCFAI 2024), 知识表示与推理论坛报告. 
-        <span class="ccf-tag">(</span>
-        <span class="publication-links">
-            <a href="./slide/CCFAI24-基于神经符号融合推理的可验证的线性时态逻辑可满足性近似检测.pdf" target="_blank">slide</a> )
-          </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Improving Local Search Algorithms via Probabilistic  Configuration Checking, HCP论坛, AAAI 2022报告会报告.
-        <span class="ccf-tag">(</span>
-        <span class="publication-links">
-            <a href="./slide/HCP-aaai22-pcc-pre.pdf" target="_blank">slide</a> )
-          </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    基于证明的神经线性时态逻辑推理, 中国计算机学会人工智能会议 (CCFAI 2021), 知识表示与推理论坛报告.
-        <span class="ccf-tag">(</span>
-        <span class="publication-links">
-            <a href="./slide/CCFAI21-Neural%20Network%20and%20Temporal%20Logic.pdf" target="_blank">slide</a> )
-          </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    How to Identify Boundary Conditions with Contrasty Metric?, 中国计算机学会中国软件大会 (CCF Chinasoft 2021), 优秀博士生报告.
-        <span class="ccf-tag">(</span>
-        <span class="publication-links">
-            <a href="./slide/Chinasoft21-pre-luo.pdf" target="_blank">slide</a> )
-          </span>
-    </span>
-</div>
-
-<h2>Services</h2>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Additional Reviewer: 25th International Symposium on Formal Methods (FM 2023)
     </span>
 </div>
 
@@ -613,6 +553,7 @@
 }
 </body>
 </html>
+
 
 
 
