@@ -453,7 +453,7 @@
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
         <h3>心电衣新闻报道</h3>
         <video controls style="width: 100%; border-radius: 8px;">
-            <source src="./videos/心电衣.mp4" type="video/mp4">
+            <source src="./video/心电衣.mp4" type="video/mp4">
             <!-- 备用：如果视频无法播放，显示链接 -->
             <p>视频无法播放？<a href="./videos/ecg_clothing.mp4" download>点击下载</a></p>
         </video>
@@ -621,6 +621,7 @@
 }
 </body>
 </html>
+
 
 
 
