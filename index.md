@@ -455,55 +455,60 @@
         <video controls style="width: 100%; border-radius: 8px;">
             <source src="./video/心电衣.mp4" type="video/mp4">
             <!-- 备用：如果视频无法播放，显示链接 -->
-            <p>视频无法播放？<a href="./videos/ecg_clothing.mp4" download>点击下载</a></p>
+            <p>视频无法播放？<a href="./videos/心电衣.mp4" download>点击下载</a></p>
         </video>
         <p style="color: #666; margin-top: 10px;">CCTV-13对心电衣的新闻报道</p>
     </div>
     
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
         <h3 style="margin-bottom: 15px;">眼科手术机器人</h3>
-        <div style="width: 100%; aspect-ratio: 16/9; background: #e0e0e0; border-radius: 6px; margin: 15px 0;
-             display: flex; align-items: center; justify-content: center; color: #666;">
-            视频播放器
-        </div>
-        <p style="color: #666;">CCTV13对手术机器人的新闻报道</p>
-    </div>   
+        <video controls style="width: 100%; border-radius: 8px;">
+            <source src="./video/眼科手术机器人.mp4" type="video/mp4">
+            <!-- 备用：如果视频无法播放，显示链接 -->
+            <p>视频无法播放？<a href="./videos/眼科手术机器人.mp4" download>点击下载</a></p>
+        </video>
+        <p style="color: #666; margin-top: 10px;">CCTV-13对手术机器人的新闻报道</p>
+    </div>
 </div>
 
 <!-- 图片区域 -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin: 40px 0;">
 
+    <!-- 图片1：心电衣产品 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
-            <div style="width: 100%; height: 180px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-                 border-radius: 6px; margin-bottom: 15px;"></div>
+            <img src="./images/ecg_product.jpg" alt="心电衣产品实物图"
+                 style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
             <h4 style="margin: 0 0 8px;">心电衣产品</h4>
             <p style="color: #666; font-size: 0.9em;">实物展示</p>
         </div>
     </div>
 
+    <!-- 图片2：点云压缩 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
-            <div style="width: 100%; height: 180px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); 
-                 border-radius: 6px; margin-bottom: 15px;"></div>
+            <img src="./images/point_cloud.jpg" alt="点云压缩效果对比图"
+                 style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
             <h4 style="margin: 0 0 8px;">点云压缩</h4>
             <p style="color: #666; font-size: 0.9em;">效果对比</p>
         </div>
     </div>
 
+    <!-- 图片3：技术原理 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
-            <div style="width: 100%; height: 180px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); 
-                 border-radius: 6px; margin-bottom: 15px;"></div>
+            <img src="./images/technology.jpg" alt="技术原理示意图"
+                 style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
             <h4 style="margin: 0 0 8px;">技术原理</h4>
             <p style="color: #666; font-size: 0.9em;">架构示意图</p>
         </div>
     </div>
 
+    <!-- 图片4：实验结果 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
-            <div style="width: 100%; height: 180px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); 
-                 border-radius: 6px; margin-bottom: 15px;"></div>
+            <img src="./images/results.jpg" alt="实验结果可视化图"
+                 style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
             <h4 style="margin: 0 0 8px;">实验结果</h4>
             <p style="color: #666; font-size: 0.9em;">可视化展示</p>
         </div>
@@ -620,6 +625,7 @@
 }
 </body>
 </html>
+
 
 
 
