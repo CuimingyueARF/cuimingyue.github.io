@@ -577,19 +577,19 @@
     2023 中国广东省教育厅中国大学生“互联网+”创新创业大赛, 铜奖
     </span>
 </div>
-div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2023 国际智能机器人大赛, 二等奖, 指导老师
     </span>
 </div>
-div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2021 世界5G大会-5G应用设计揭榜赛, 二等奖（高校组）
     </span>
 </div>
-div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
     2019 国际智能机器人大赛, 一等奖
@@ -613,6 +613,7 @@ div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
 }
 </body>
 </html>
+
 
 
 
