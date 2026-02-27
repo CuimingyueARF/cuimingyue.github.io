@@ -288,7 +288,7 @@
         </span>
     </span>
 </div>
-div class="publication">
+<div class="publication">
     <span class="bullet">•</span>
     <span class="content">
     Shuai Liu, <strong>Mingyue Cui</strong>, Boyang Li*.Quanmin Liang, Tinghe Hong, Yunxiao Shan, Kai Huang.
@@ -679,6 +679,7 @@ div class="publication">
 }
 </body>
 </html>
+
 
 
 
