@@ -500,8 +500,8 @@
 
 <h2>Achievement Showcase</h2>
 
-<!-- 视频区域 - 修改底部间距为1em -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin: 40px 0 1em 0;">
+<!-- 视频区域 - 移除所有外边距，让标题紧贴内容 -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin: 0;">
     
     <!-- 方案1：本地视频 -->
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
@@ -525,8 +525,8 @@
     </div>
 </div>
 
-<!-- 图片区域 - 修改底部间距为1em -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin: 40px 0 1em 0;">
+<!-- 图片区域 - 移除所有外边距，让内容紧贴 -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin: 0;">
 
     <!-- 图片1：心电衣产品 -->
     <div style="text-align: center;">
@@ -680,6 +680,8 @@
 </style>
 </body>
 </html>
+
+
 
 
 
