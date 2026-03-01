@@ -1,93 +1,4 @@
-<html>
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D3F7N22QK3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-D3F7N22QK3');
-</script>
-</head>
-<body>  
-    <h1>Mingyue Cui</h1>
-    
-    <img src="./picture/cuimingyue2.png" alt="Mingyue Cui" class="profile-img">
-    
-   <p style="text-align: justify; text-justify: inter-word; line-height: 1.6; margin: 0 0 1em;">
-    I am now an Associate Researcher in School of Computer Science and Engineering, Sun Yat-sen University (SYSU). Before that I got my Ph.D. degree in <a href="https://cse.sysu.edu.cn/">School of Computer Science and Engineering, Sun Yat-sen University (SYSU)</a>.
-</p>
-    
-    <div class="contact-info">
-        <p><strong>Address:</strong> School of Computer Science and Engineering, Sun Yat-sen University</p>
-        <p><strong>Tel:</strong> +86-13726211441</p>
-        <p><strong>Email:</strong> cuimy@mail2.sysu.edu.cn</p>
-    </div>
-    <h2>Research</h2>
-    <p>My main research area is Knowledge Representation and Reasoning (KRR) in Artificial Intelligence. My research interests are Neuro-symbolic Computing, Knowledge Mining/Discovery, Boolean Satisfiability (SAT) Problem, Combinatorial Optimization, Goal-oriented Requirements Engineering, and Reliability Analysis.</p>
-    <p>I now focus on learning formal languages and satisfiability checking for linear temporal logic (LTL).</p>
-    <h2>Publication</h2>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Yuyang Zhong, Mingjian Feng, Junhua Long, Jinhong Xia, Kai Huang*.
-    A Self-Attention-Based LiDAR Point Cloud Compression Framework in Autonomous Driving Environments[J].
-    <cite>IEEE Transactions on Industrial Informatics (TII)</cite>, 2026, 1-13.
-    <span class="ccf-tag">(中科院一区, IF：9.9, </span>
-        <span class="publication-links">
-            <a href="./paper/none.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-        <strong>Mingyue Cui</strong>, Yewei Gan, Jiepeng Chen, Kai Zheng, Yanchong Xie, Daosong Hu, Yuning Cui, Kai Huang*.
-        A Frequency-Guided Denoising Framework Based on Convolutional Transformer for Electrocardiogram Signals[J].
-        <cite>Engineering Applications of Artificial Intelligence (EAAI)</cite>, 2026.
-        <span class="ccf-tag">(中科院一区, IF：8, </span>
-        <span class="publication-links">
-            <a href="./paper/none.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-        Hongjin Zhong, Jingyu Guo, <strong>Mingyue Cui*</strong>, Shuai Liu, Yuanhai Zhang, Kai Huang.
-       Operator-Level Acceleration for Sparse 3D Object Detection[C]//<cite>In Proceedings of the IEEE/CVF Design Automation Conference (DAC)</cite>, 2026.
-        <span class="ccf-tag">(中国计算机学会 CCF 推荐 A 类国际会议，拟录用, </span>
-        <span class="publication-links">
-            <a href="./paper/none.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Mingjian Feng, <strong>Mingyue Cui*</strong>, Yuyang Zhong, Chunjie Shu, Han Liu, Daosong Hu, Kai Huang.
-    OctHilNet: Hilbert-Guided Hierarchical Geometry Codec for Octree-Structured LiDAR Point Clouds[C]//<cite>In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2026.
-    <span class="ccf-tag">(机器人领域顶级会议，中国计算机学会 CCF 推荐 B 类国际会议，拟录用, </span>
-        <span class="publication-links">
-            <a href="./paper/none.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Yuyang Zhong, Mingjian Feng, Junhua Long, Yehua Ling, Jiahao Xu, Kai Huang*.
-   GAME: Graph-driven Attention-based Entropy Model for LiDAR Point Cloud Compression[J].
-    <cite>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</cite>, 2025, 35(9): 9105-9118.
-    <span class="ccf-tag">(中科院一区，IF：11.1, </span>
-        <span class="publication-links">
-            <a href="./paper/26-TCSVT_2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
 <html>
 <head>
 <!-- Google tag (gtag.js) -->
@@ -556,7 +467,8 @@
 }
 </style>
 </body>
-</html>
+</html>>
+
 
 
 
