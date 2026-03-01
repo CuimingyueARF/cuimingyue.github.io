@@ -379,18 +379,6 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    <strong>Mingyue Cui</strong>, Shipeng Zhong, Siyao Liu, Boyang Li, Chenghao Wu, Kai Huang*.
-    Cooperative LiDAR SLAM for Multi-vehicles Based on Edge Computing[J].
-    <cite>中国图象图形学报</cite>, 2021, 26(01):0218-0228.
-    <span class="ccf-tag">(中国计算机学会 CCF 推荐 T2 类中文期刊, </span>
-        <span class="publication-links">
-            <a href="./paper/7-中国图象图形学报-2021.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
     Boyang Li, Sijian Liu, <strong>Mingyue Cui</strong>, Zhihao Zhao, Kai Huang*.
     Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
     <cite>电子学报</cite>, 2021, 49(11):2241-2250.
@@ -660,6 +648,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
