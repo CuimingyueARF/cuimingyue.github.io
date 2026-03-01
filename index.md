@@ -279,6 +279,170 @@
     B.E., Software Engineering, <a href="https://ss.nchu.edu.cn/">Nanchang Hangkong University</a>, 09/2011 - 06/2015
     </span>
 </div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Zefeng Li,  <strong>Mingyue Cui</strong>, Daosong Hu, Jin Gong, Jingchong Weng, Zeyu Zhang, Lele Tian, Mengran Li, Kai Huang*.
+    A Two-Stage Method for Specular Highlight Detection and Removal in Medical Images.
+    <cite>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</cite>, 2025.
+    <span class="publication-links">(<a href="./paper/29-MICCAI-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Yehui Li, Yujing Kuang, <strong>Mingyue Cui*</strong>, Weibing Li.
+    A Novel Shape Estimation Strategy for Continuum Robots Using Multiple Hall-effect Sensors and IMUs[C].
+    <cite>Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)</cite>, 2025.
+    <span class="publication-links">(<a href="./paper/31-IWACIII-2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Boyang Li, Siheng Ren, Shuai Zhao, <strong>Mingyue Cui</strong>, Kai Huang*.
+    FedPillarNet: Unifying personalized and global features for federated 3D LiDAR object detection.
+    <cite>Journal of Systems Architecture (JSA)</cite>, 2025.
+    <span class="publication-links">(<a href="./paper/34-JSA-2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+   Shuai Liu, Boyang Li, Zhiyu Fang, <strong>Mingyue Cui</strong>, Kai Huang*.
+    FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors.
+    <cite>Neural Information Processing Systems (NIPS)</cite>, 2025.
+    <span class="publication-links">(<a href="./paper/19-nips-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Siheng Ren, Boyang Li, Shuai Liu, Jiahui Liao, <strong>Mingyue Cui</strong>, Kai Huang*.
+    TeamFed: Teamwork Principles-Inspired Federated Learning for 3D Object Detection.
+    <cite>Pattern Recognition and Computer Vision Conference (PRCV)</cite>, 2025.
+    <span class="ccf-tag">(CCF-B,</span><span class="publication-links">
+            <a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
+    An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C]//<cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2024:1-6.
+    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
+    Accelerated Optimization for Simulation of Brain Spiking Neural Network on GPGPUs.
+    <cite>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</cite>, 2024, 172-189.
+    <span class="publication-links">(<a href="./paper/11-ICA3PP-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+  <div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>.
+    An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
+    <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
+    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
+    Accelerated Optimization for Simulation of Brain Spiking Neural Network on GPGPUs.
+    <cite>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</cite>, 2024, 172-189.
+    <span class="publication-links">(<a href="./paper/11-ICA3PP-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Qiang Zhang, <strong>Mingyue Cui</strong>, Yue Liu, Weichong Chen, Zhiyi Yu*.
+    Low-Power and Low-Cost AI Processor with Distributed-Aggregated Classification Architecture for Wearable Epilepsy Seizure Detection.
+    <cite>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</cite>, 2024, 19(1):28-39.
+    <span class="publication-links">(<a href="./paper/18-IEEE .pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Han Liu, Tian Liu, <strong>Mingyue Cui</strong>, Yunxiao Shan, Shuai Zhao, Kai Huang*.
+    An Efficient Position Reconfiguration Approach for Maximizing Lifetime of Fixed-wing Swarm Drones.
+    <cite>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</cite>, 2024.
+    <span class="publication-links">(<a href="./paper/14-IROS-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Yewei Gan, Yanchong Xie, <strong>Mingyue Cui*</strong>, Kai Huang.
+    Cformer: A hybrid CNN-Transformer framework for 12-lead ECG denoising.
+    <cite>IEEE International Conference on Electronic Information Engineering and Computer Science (EIECS)</cite>, 2024.
+    <span class="publication-links">(<a href="./paper/16-EIECS-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    <strong>Mingyue Cui</strong>, Shipeng Zhong, Siyao Liu, Boyang Li, Chenghao Wu, Kai Huang*.
+    Cooperative LiDAR SLAM for Multi-vehicles Based on Edge Computing[J].
+    <cite>中国图象图形学报</cite>, 2021, 26(01):0218-0228.
+    <span class="ccf-tag">(中国计算机学会 CCF 推荐 T2 类中文期刊, </span>
+        <span class="publication-links">
+            <a href="./paper/7-中国图象图形学报-2021.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Boyang Li, Sijian Liu, <strong>Mingyue Cui</strong>, Zhihao Zhao, Kai Huang*.
+    Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
+    <cite>电子学报</cite>, 2021, 49(11):2241-2250.
+    <span class="publication-links">(<a href="./paper/6-电子学报-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Boyang Li, Hao Meng, Yuzhang Zhu, Rihui Song, <strong>Mingyue Cui</strong>, Gang Chen, Kai Huang*.
+    Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
+    <cite>IEEE transactions on Instrumentation and Measurement (TIM)</cite>, 2021.
+    <span class="publication-links">(<a href="./paper/8-TIM-.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Long Chen, <strong>Mingyue Cui</strong>, Feihu Zhang, Biao Hu, Kai Huang*.
+    High-Speed Scene Flow on Embedded Commercial Off-the-Shelf Systems.
+    <cite>IEEE Transactions on Industrial Informatics (TII)</cite>, 2019, 15(4):1843-1852.
+    <span class="publication-links">(<a href="./paper/4-TII-2019.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+
+
 
 <h2>Patent (authorized)</h2>
 <div class="publication">
@@ -500,6 +664,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
