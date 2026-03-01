@@ -56,8 +56,7 @@
     <span class="bullet">•</span>
     <span class="content">
         Hongjin Zhong, Jingyu Guo, <strong>Mingyue Cui*</strong>, Shuai Liu, Yuanhai Zhang, Kai Huang.
-       Operator-Level Acceleration for Sparse 3D Object Detection[C]//
-        <cite>In Proceedings of the IEEE/CVF Design Automation Conference (DAC)</cite>, 2026.
+       Operator-Level Acceleration for Sparse 3D Object Detection[C]//<cite>In Proceedings of the IEEE/CVF Design Automation Conference (DAC)</cite>, 2026.
         <span class="ccf-tag">(中国计算机学会 CCF 推荐 A 类国际会议，拟录用, </span>
         <span class="publication-links">
             <a href="./paper/none.pdf" target="_blank">paper</a>)
@@ -68,8 +67,7 @@
     <span class="bullet">•</span>
     <span class="content">
     Mingjian Feng, <strong>Mingyue Cui*</strong>, Yuyang Zhong, Chunjie Shu, Han Liu, Daosong Hu, Kai Huang.
-    OctHilNet: Hilbert-Guided Hierarchical Geometry Codec for Octree-Structured LiDAR Point Clouds[C]//
-    <cite>In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2026.
+    OctHilNet: Hilbert-Guided Hierarchical Geometry Codec for Octree-Structured LiDAR Point Clouds[C]//<cite>In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2026.
     <span class="ccf-tag">(机器人领域顶级会议，中国计算机学会 CCF 推荐 B 类国际会议，拟录用, </span>
         <span class="publication-links">
             <a href="./paper/none.pdf" target="_blank">paper</a>)
@@ -116,7 +114,7 @@
     <span class="content">
     Daosong Hu, <strong>Mingyue Cui*</strong>, Kai Huang.
     UnMoDE: Uncertainty Modeling for Driver Gaze Estimation via Feature Disentanglement[J].
-    <cite>IEEE Transactions on Intelligent Transportation Systems (TITS)</cite>, 2025, 26(7):10612-10622.
+    <cite>IEEE Transactions on Intelligent Transportation Systems (TITS)</cite>, 22025, 26(7):10612-10622.
     <span class="ccf-tag">(中科院一区, IF：8.4, </span>
         <span class="publication-links">
             <a href="./paper/24-TITS-2025.pdf" target="_blank">paper</a>)
@@ -138,36 +136,11 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    Daosong Hu, <strong>Mingyue Cui*</strong>, Kai Huang.
-    GHR-2D: Gaze and head redirection via disentanglement and diffusion for gaze estimation[J].
-    <cite>Engineering Applications of Artificial Intelligence (EAAI)</cite>, 2025, 160: 111901-111914.
-    <span class="ccf-tag">(中科院一区, IF：8, </span>
+    Yanchong Xie, Jiepeng Chen, Kai Zheng, Haoyang Huang, Zhanshang Nie, Minglong Zheng, Kai Huang, <strong>Mingyue Cui*</strong>. 
+   DSTNN-X: ECG Arrhythmia Classification using Deep Spatio-Temporal Learning with Multi-Lead Contextual Aggregation[C]//<cite>In Proceedings of the International Conference on Service Robotics (ICoSR)</cite>, 2025.
+    <span class="ccf-tag">(最佳论文奖, </span>
         <span class="publication-links">
-            <a href="./paper/29-EAAI-2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Han Liu, Yu Jin, <strong>Mingyue Cui</strong>, Boyang Li, Tianjian Hu, Kai Huang*.
-    From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems.
-    <cite>IEEE Transactions on Automation Science and Engineering (TASE),</cite>, 2025.
-    <span class="ccf-tag">(中科院二区, IF：5.7, </span>
-        <span class="publication-links">
-            <a href="./paper/36-TASE-2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Jiakang Zhang, Mingjian Feng, Yuyang Zhong, Yanwei Lu, Chunjie Shu, Yehui Li*, Weibing Li. 
-    A Hierarchical Plane-Quadric Surface Fitting Based Framework for Real-Time LiDAR Point Cloud Compression[C].
-    <cite>In Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)</cite>, 2025.
-    <span class="ccf-tag">(最佳口头汇报奖, </span>
-        <span class="publication-links">
-            <a href="./paper/32-IWACIII-2025.pdf" target="_blank">paper</a>)
+            <a href="./paper/28-ICoSR_2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -183,273 +156,9 @@
         </span>
     </span>
 </div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Yuzhang Zhu, Yechang Liu, Yunchao Liu,Gang Chen, Kai Huang*.
-    Dense Depth-Map Estimation Based on Fusion of Event Camera and Sparse LiDAR[J].
-    <cite>IEEE Transactions on Instrumentation and Measurement (TIM)</cite>, 2022, 71:1-11.
-    <span class="ccf-tag">(中科院二区, IF: 5.9, </span>
-        <span class="publication-links">
-            <a href="./paper/9-TIM-2022.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Shipeng Zhong, Siyao Liu, Boyang Li, Chenghao Wu, Kai Huang*.
-    Cooperative LiDAR SLAM for Multi-vehicles Based on Edge Computing[J].
-    <cite>中国图象图形学报</cite>, 2021, 26(01):0218-0228.
-    <span class="ccf-tag">(中国计算机学会 CCF 推荐 T2 类中文期刊, </span>
-        <span class="publication-links">
-            <a href="./paper/7-中国图象图形学报-2021.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang*.
-    An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C].
-    <cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2024:1-6.
-    <span class="publication-links">(<a href="./paper/20-Robio-2024.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>
-    An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
-    <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Yanchong Xie, Jiepeng Chen, Kai Zheng, Haoyang Huang, Zhanshang Nie, Minglong Zheng, Kai Huang, <strong>Mingyue Cui*</strong>.
-    DSTNN-X: ECG Arrhythmia Classification using Deep Spatio-Temporal Learning with Multi-Lead Contextual Aggregation[C].
-    <cite>In Proceedings of the International Conference on Service Robotics (ICoSR)</cite>, 2025.
-    <span class="ccf-tag">(最佳论文奖, </span>
-        <span class="publication-links">
-            <a href="./paper/28-ICoSR_2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Mingjian Feng, Junhua Long, Daosong Hu, Shuai Zhao, Kai Huang*.
-    A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression[C].
-    <cite>n Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2024: 3796-3802.
-    <span class="ccf-tag">(机器人领域顶级会议, 中国计算机学会 CCF 推荐 B 类国际会议, </span>
-        <span class="publication-links">
-            <a href="./paper/12-ICRA_2024.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Junhua Long, Mingjian Feng, Boyang Li, Kai Huang*.
-    OctFormer: Efficient octree-based transformer for point cloud compression with local enhancement[C].
-    <cite>In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</cite>, 2023, 470-478.
-    <span class="ccf-tag">(中国计算机学会 CCF 推荐 A 类国际会议, </span>
-        <span class="publication-links">
-            <a href="./paper/10-AAAI-2023.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Junhua Long, Mingjian Feng, Boyang Li, Kai Huang*.
-    Dense Depth-Map Estimation Based on Fusion of Event Camera and Sparse LiDAR[J].
-    <cite>IEEE Transactions on Instrumentation and Measurement (TIM)</cite>, 2022, 71:1-11.
-    <span class="ccf-tag">(中科院二区, IF: 5.9, </span>
-        <span class="publication-links">
-            <a href="./paper/8-TIM-2022.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Shipeng Zhong, Siyao Liu, Boyang Li, Chenghao Wu, Kai Huang*.
-    Cooperative LiDAR SLAM for Multi-vehicles Based on Edge Computing[J].
-    <cite>中国图象图形学报</cite>, 2021, 26(01):0218-0228.
-    <span class="ccf-tag">(中国计算机学会 CCF 推荐 T2 类中文期刊, </span>
-        <span class="publication-links">
-            <a href="./paper/7-中国图像图形学报-2021.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Shipeng Zhong, Boyang Li, Xu Chen, Kai Huang*.
-    Offloading Autonomous Driving Services via Edge Computing[J].
-    <cite>IEEE Internet of Things Journal (IOTJ)</cite>, 2020, 7(10):10535-10547.
-    <span class="ccf-tag">(中科院一区, IF：8.9, </span>
-        <span class="publication-links">
-            <a href="./paper/5-IOTJ-2020.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Shuai Liu, <strong>Mingyue Cui</strong>, Boyang Li*.Quanmin Liang, Tinghe Hong, Yunxiao Shan, Kai Huang.
-    FSHNet: Fully Sparse Hybrid Network for 3D Object Detection.
-    <cite>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/25-CVPR-2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Zefeng Li,  <strong>Mingyue Cui</strong>, Daosong Hu, Jin Gong, Jingchong Weng, Zeyu Zhang, Lele Tian, Mengran Li, Kai Huang*.
-    A Two-Stage Method for Specular Highlight Detection and Removal in Medical Images.
-    <cite>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/29-MICCAI-.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Yehui Li, Yujing Kuang, <strong>Mingyue Cui*</strong>, Weibing Li.
-    A Novel Shape Estimation Strategy for Continuum Robots Using Multiple Hall-effect Sensors and IMUs[C].
-    <cite>Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/31-IWACIII-2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Boyang Li, Siheng Ren, Shuai Zhao, <strong>Mingyue Cui</strong>, Kai Huang*.
-    FedPillarNet: Unifying personalized and global features for federated 3D LiDAR object detection.
-    <cite>Journal of Systems Architecture (JSA)</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/34-JSA-2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-   Shuai Liu, Boyang Li, Zhiyu Fang, <strong>Mingyue Cui</strong>, Kai Huang*.
-    FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors.
-    <cite>Neural Information Processing Systems (NIPS)</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/19-nips-.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Siheng Ren, Boyang Li, Shuai Liu, Jiahui Liao, <strong>Mingyue Cui</strong>, Kai Huang*.
-    TeamFed: Teamwork Principles-Inspired Federated Learning for 3D Object Detection.
-    <cite>Pattern Recognition and Computer Vision Conference (PRCV)</cite>, 2025.
-    <span class="ccf-tag">(CCF-B,</span><span class="publication-links">
-            <a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang*.
-    An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C].
-    <cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/20-Robio-2024-An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
-    Accelerated Optimization for Simulation of Brain Spiking Neural Network on GPGPUs.
-    <cite>International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)</cite>, 2024, 172-189.
-    <span class="publication-links">(<a href="./paper/11-ICA3PP-.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Qiang Zhang, <strong>Mingyue Cui</strong>, Yue Liu, Weichong Chen, Zhiyi Yu*.
-    Low-Power and Low-Cost AI Processor with Distributed-Aggregated Classification Architecture for Wearable Epilepsy Seizure Detection.
-    <cite>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</cite>, 2024, 19(1):28-39.
-    <span class="publication-links">(<a href="./paper/18-IEEE .pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Han Liu, Tian Liu, <strong>Mingyue Cui</strong>, Yunxiao Shan, Shuai Zhao, Kai Huang*.
-    An Efficient Position Reconfiguration Approach for Maximizing Lifetime of Fixed-wing Swarm Drones.
-    <cite>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</cite>, 2024.
-    <span class="publication-links">(<a href="./paper/14-IROS-.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Yewei Gan, Yanchong Xie, <strong>Mingyue Cui*</strong>, Kai Huang.
-    Cformer: A hybrid CNN-Transformer framework for 12-lead ECG denoising.
-    <cite>IEEE International Conference on Electronic Information Engineering and Computer Science (EIECS)</cite>, 2024.
-    <span class="publication-links">(<a href="./paper/16-EIECS-.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>.
-    An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
-    <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Boyang Li, Sijian Liu, <strong>Mingyue Cui</strong>, Zhihao Zhao, Kai Huang*.
-    Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
-    <cite>电子学报</cite>, 2021, 49(11):2241-2250.
-    <span class="publication-links">(<a href="./paper/6-电子学报-.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Boyang Li, Hao Meng, Yuzhang Zhu, Rihui Song, <strong>Mingyue Cui</strong>, Gang Chen, Kai Huang*.
-    Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
-    <cite>IEEE transactions on Instrumentation and Measurement (TIM)</cite>, 2021.
-    <span class="publication-links">(<a href="./paper/8-TIM-.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Long Chen, <strong>Mingyue Cui</strong>, Feihu Zhang, Biao Hu, Kai Huang*.
-    High-Speed Scene Flow on Embedded Commercial Off-the-Shelf Systems.
-    <cite>IEEE Transactions on Industrial Informatics (TII)</cite>, 2019, 15(4):1843-1852.
-    <span class="publication-links">(<a href="./paper/4-TII-2019.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
+
+
+
   
 <h2>Education</h2>
 <div class="publication">
@@ -691,6 +400,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
