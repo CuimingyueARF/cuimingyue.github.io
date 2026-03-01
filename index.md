@@ -444,37 +444,37 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    <strong>崔明月</strong>, 舒春节, 冯明健, 钟予阳, 郑鑫宇, 黄凯. 一种融合多尺度几何特征的双路径三维点云压缩重建方法, 2025.11.07, 中国, CN202511215503.5.
+    <strong>崔明月</strong>, 舒春节, 冯明健, 钟予阳, 郑鑫宇, 黄凯. 一种融合多尺度几何特征的双路径三维点云压缩重建方法, 2025.11.07, 中国, CN120912783A.
     </span>
 </div>
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    <strong>崔明月</strong>, 陶俊成, 钟予阳, 冯明健, 黄凯. 一种基于多级球八叉树和图驱动注意力熵模型的点云编码方法, 2024.11.22, 中国, CN202411151533.X.
+    <strong>崔明月</strong>, 陶俊成, 钟予阳, 冯明健, 黄凯. 一种基于多级球八叉树和图驱动注意力熵模型的点云编码方法, 2024.11.22, 中国, CN119006620A.
     </span>
 </div>
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    <strong>崔明月</strong>, 冯明健, 龙俊桦, 黄凯. 一种基于双八叉树结构的点云编码及解码方法, 2024.03.12, 中国, CN202311666433.6.
+    <strong>崔明月</strong>, 冯明健, 龙俊桦, 黄凯. 一种基于双八叉树结构的点云编码及解码方法, 2024.03.12, 中国, CN117692662A.
     </span>
 </div>
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    黄凯, <strong>崔明月</strong>, 王震彬, 陈杰鹏, 张玉玲. 一种基于编解码结构的小波双通道单导联心电去噪方法, 2023.10.27, 中国, CN202310835291.5.
+    黄凯, <strong>崔明月</strong>, 王震彬, 陈杰鹏, 张玉玲. 一种基于编解码结构的小波双通道单导联心电去噪方法, 2023.10.27, 中国, CN116942172A.
     </span>
 </div>
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    黄凯, <strong>崔明月</strong>, 龙俊桦, 朱裕章, 罗宇翔, 刘业畅, 刘云超. 一种基于激光雷达和事件相机融合的深度估计方法, 2022.04.15, 中国, CN202111502007.X.
+    黄凯, <strong>崔明月</strong>, 龙俊桦, 朱裕章, 罗宇翔, 刘业畅, 刘云超. 一种基于激光雷达和事件相机融合的深度估计方法, 2022.04.15, 中国, CN114359744A.
     </span>
 </div>
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    黄凯, <strong>崔明月</strong>, 吴成昊, 刘云超, 王博, 罗宇翔. 一种基于三维激光雷达传感器的端到端点云数据压缩方法, 2021.08.06, 中国, CN202110454876.3.
+    黄凯, <strong>崔明月</strong>, 吴成昊, 刘云超, 王博, 罗宇翔. 一种基于三维激光雷达传感器的端到端点云数据压缩方法, 2021.08.06, 中国, CN113219493A.
     </span>
 </div>
 
@@ -491,7 +491,7 @@
             <!-- 备用：如果视频无法播放，显示链接 -->
             <p>视频无法播放？<a href="./videos/心电衣.mp4" download>点击下载</a></p>
         </video>
-        <p style="color: #666; margin-top: 10px;">CCTV-13对心电衣的新闻报道</p>
+        <p style="color: #666; margin-top: 10px;">智能心电衣展示</p>
     </div>
     
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
@@ -501,7 +501,7 @@
             <!-- 备用：如果视频无法播放，显示链接 -->
             <p>视频无法播放？<a href="./videos/眼科手术机器人.mp4" download>点击下载</a></p>
         </video>
-        <p style="color: #666; margin-top: 10px;">CCTV-13对手术机器人的新闻报道</p>
+        <p style="color: #666; margin-top: 10px;">眼科手术机器人手术过程</p>
     </div>
 </div>
 
@@ -513,8 +513,8 @@
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
             <img src="./picture/工业机器人.jpg" alt="工业机器人"
                  style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
-            <h4 style="margin: 0 0 8px;">工业机器人实物</h4>
-            <p style="color: #666; font-size: 0.9em;">实物展示</p>
+            <h4 style="margin: 0 0 8px;">工业机器人</h4>
+            <p style="color: #666; font-size: 0.9em;"></p>
         </div>
     </div>
 
@@ -523,8 +523,8 @@
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
             <img src="./picture/无人车.png" alt="无人车"
                  style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
-            <h4 style="margin: 0 0 8px;">无人车实物</h4>
-            <p style="color: #666; font-size: 0.9em;">实物展示</p>
+            <h4 style="margin: 0 0 8px;">无人车</h4>
+            <p style="color: #666; font-size: 0.9em;"></p>
         </div>
     </div>
 
@@ -533,8 +533,8 @@
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
             <img src="./picture/无人船.gif" alt="无人船"
                  style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
-            <h4 style="margin: 0 0 8px;">无人船实物</h4>
-            <p style="color: #666; font-size: 0.9em;">实物展示</p>
+            <h4 style="margin: 0 0 8px;">无人船</h4>
+            <p style="color: #666; font-size: 0.9em;"></p>
         </div>
     </div>
 
@@ -543,8 +543,8 @@
         <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; height: 100%;">
             <img src="./picture/仿生蝴蝶机器人.jpg" alt="仿生蝴蝶机器人"
                  style="width: 100%; height: 180px; object-fit: cover; border-radius: 6px; margin-bottom: 15px;">
-            <h4 style="margin: 0 0 8px;">仿生蝴蝶机器人实物</h4>
-            <p style="color: #666; font-size: 0.9em;">实物展示</p>
+            <h4 style="margin: 0 0 8px;">仿生蝴蝶机器人</h4>
+            <p style="color: #666; font-size: 0.9em;"></p>
         </div>
     </div>
 
@@ -660,6 +660,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
