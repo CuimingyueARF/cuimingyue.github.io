@@ -55,12 +55,24 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    Daosong Hu, Xi Li, <strong>Mingyue Cui*</strong>, Kai Huang.
-    LNet: Lightweight Network for Driver Attention Estimation via Scene and Gaze Consistency[J].
-    <cite>IEEE Transactions on Image Processing (TIP)</cite>, 2026, 35:27-41.
-    <span class="ccf-tag">(中科院一区, IF：13.7, </span>
+        Hongjin Zhong, Jingyu Guo, <strong>Mingyue Cui*</strong>, Shuai Liu, Yuanhai Zhang, Kai Huang.
+       Operator-Level Acceleration for Sparse 3D Object Detection[C]//
+        <cite>In Proceedings of the IEEE/CVF Design Automation Conference (DAC)</cite>, 2026.
+        <span class="ccf-tag">(中国计算机学会 CCF 推荐 A 类国际会议，拟录用, </span>
         <span class="publication-links">
-            <a href="./paper/35-TIP-2025.pdf" target="_blank">paper</a>)
+            <a href="./paper/none.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Mingjian Feng, <strong>Mingyue Cui*</strong>, Yuyang Zhong, Chunjie Shu, Han Liu, Daosong Hu, Kai Huang.
+    OctHilNet: Hilbert-Guided Hierarchical Geometry Codec for Octree-Structured LiDAR Point Clouds[C]//
+    <cite>In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2026.
+    <span class="ccf-tag">(机器人领域顶级会议，中国计算机学会 CCF 推荐 B 类国际会议，拟录用, </span>
+        <span class="publication-links">
+            <a href="./paper/none.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -70,7 +82,7 @@
     <strong>Mingyue Cui</strong>, Yuyang Zhong, Mingjian Feng, Junhua Long, Yehua Ling, Jiahao Xu, Kai Huang*.
    GAME: Graph-driven Attention-based Entropy Model for LiDAR Point Cloud Compression[J].
     <cite>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</cite>, 2025, 35(9): 9105-9118.
-    <span class="ccf-tag">(CCF A, </span>
+    <span class="ccf-tag">(中科院一区，IF：11.1, </span>
         <span class="publication-links">
             <a href="./paper/26-TCSVT_2025.pdf" target="_blank">paper</a>)
         </span>
@@ -679,7 +691,8 @@
 }
 </style>
 </body>
-</html>
+</html>>
+
 
 
 
