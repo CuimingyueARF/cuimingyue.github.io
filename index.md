@@ -174,8 +174,7 @@
     <span class="bullet">•</span>
     <span class="content">
     <strong>Mingyue Cui</strong>, Jiakang Zhang, Mingjian Feng, Yuyang Zhong, Yanwei Lu, Chunjie Shu, Yehui Li*, Weibing Li.
-    A Hierarchical Plane-Quadric Surface Fitting Based Framework for Real-Time LiDAR Point Cloud Compression[C].
-    <cite>In Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)</cite>, 2025.
+    A Hierarchical Plane-Quadric Surface Fitting Based Framework for Real-Time LiDAR Point Cloud Compression[C]//<cite>In Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)</cite>, 2025.
     <span class="ccf-tag">(最佳口头汇报奖,</span>
         <span class="publication-links">
             <a href="./paper/32-IWACIII-2025.pdf" target="_blank">paper</a>)
@@ -186,7 +185,7 @@
     <span class="bullet">•</span>
     <span class="content">
     <strong>Mingyue Cui</strong>, Mingjian Feng, Junhua Long, Daosong Hu, Shuai Zhao, Kai Huang*.
-    A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression[C]//<cite>n Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2024: 3796-3802.
+    A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression[C]//<cite>In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2024: 3796-3802.
     <span class="ccf-tag">(机器人领域顶级会议, 中国计算机学会 CCF 推荐 B 类国际会议, </span>
         <span class="publication-links">
             <a href="./paper/12-ICRA-2024.pdf" target="_blank">paper</a>)
@@ -332,8 +331,7 @@
     <span class="bullet">•</span>
     <span class="content">
     Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>.
-    An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
-    <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
+    An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C]//<cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
     <span class="publication-links">(<a href="./paper/paper/13-ICARM-An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression.pdf" target="_blank">paper</a>)
         </span>
     </span>
@@ -662,6 +660,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
