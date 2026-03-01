@@ -94,7 +94,7 @@
     <strong>Mingyue Cui</strong>, Yuyang Zhong, Mingjian Feng, Junhua Long, Jinhong Xia, Kai Huang*.
     DAPCC: Diverse Attention-based Entropy Model for Dynamic LiDAR Point Cloud Compression[J].
     <cite>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</cite>, 2025, 63:1-13.
-    <span class="ccf-tag">(中科院一区, IF：8.6, </span>
+    <span class="ccf-tag">(中科院一区，IF：8.6, </span>
         <span class="publication-links">
             <a href="./paper/27-TGRS-2025.pdf" target="_blank">paper</a>)
         </span>
@@ -104,8 +104,7 @@
     <span class="bullet">•</span>
     <span class="content">
     Daosong Hu, <strong>Mingyue Cui*</strong>, Kai Huang.
-    FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation[C].
-    <cite>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</cite>, 2025, 18760-18769.
+    FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation[C]//<cite>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</cite>, 2025, 18760-18769.
     <span class="ccf-tag">(中国计算机学会 CCF 推荐 A 类国际会议, </span>
         <span class="publication-links">
             <a href="./paper/25-CVPR-2025.pdf" target="_blank">paper</a>)
@@ -692,6 +691,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
