@@ -61,7 +61,7 @@
     <cite>IEEE Transactions on Image Processing (TIP)</cite>, 2026, 35:27-41.
     <span class="ccf-tag">(中科院一区，IF：13.7, </span>
         <span class="publication-links">
-            <a href="./paper/10-AAAI-2023.pdf" target="_blank">paper</a>)
+            <a href="./paper/paper/35-TIP-2025.pdf.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -648,6 +648,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
