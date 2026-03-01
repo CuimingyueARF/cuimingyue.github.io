@@ -189,7 +189,7 @@
     A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression[C]//<cite>n Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2024: 3796-3802.
     <span class="ccf-tag">(机器人领域顶级会议, 中国计算机学会 CCF 推荐 B 类国际会议, </span>
         <span class="publication-links">
-            <a href="./paper/12-ICRA_2024.pdf" target="_blank">paper</a>)
+            <a href="./paper/12-ICRA-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -663,6 +663,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
