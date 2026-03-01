@@ -339,7 +339,7 @@
         </span>
     </span>
 </div>
-<<div class="publication">
+<div class="publication">
     <span class="bullet">•</span>
     <span class="content">
     Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
@@ -663,6 +663,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
