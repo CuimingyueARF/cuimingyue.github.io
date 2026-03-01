@@ -111,6 +111,7 @@
         </span>
     </span>
 </div>
+
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
@@ -127,7 +128,7 @@
     <span class="content">
     Daosong Hu, <strong>Mingyue Cui*</strong>, Kai Huang.
     UnMoDE: Uncertainty Modeling for Driver Gaze Estimation via Feature Disentanglement[J].
-    <cite>IEEE Transactions on Intelligent Transportation Systems (TITS)</cite>, 22025, 26(7):10612-10622.
+    <cite>IEEE Transactions on Intelligent Transportation Systems (TITS)</cite>, 2025, 26(7):10612-10622.
     <span class="ccf-tag">(中科院一区, IF：8.4, </span>
         <span class="publication-links">
             <a href="./paper/24-TITS-2025.pdf" target="_blank">paper</a>)
@@ -143,6 +144,18 @@
     <span class="ccf-tag">(中科院一区, IF：8, </span>
         <span class="publication-links">
             <a href="./paper/29-EAAI-2025.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Han Liu, Yu Jin, <strong>Mingyue Cui</strong>, Boyang Li, Tianjian Hu, Kai Huang*.
+    From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems.
+    <cite>IEEE Transactions on Automation Science and Engineering (TASE),</cite>, 2025.
+    <span class="ccf-tag">(中科院二区, IF：5.7, </span>
+        <span class="publication-links">
+            <a href="./paper/36-TASE-2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -224,6 +237,25 @@
     <span class="ccf-tag">(中科院一区, IF：8.9, </span>
         <span class="publication-links">
             <a href="./paper/5-IOTJ-2020.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    <strong>Mingyue Cui</strong>, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang*.
+    An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C]//<cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2025.
+    <span class="publication-links">(<a href="./paper/20-Robio-2024-An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Shuai Liu, <strong>Mingyue Cui</strong>, Boyang Li*.Quanmin Liang, Tinghe Hong, Yunxiao Shan, Kai Huang.
+    FSHNet: Fully Sparse Hybrid Network for 3D Object Detection.
+    <cite>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</cite>, 2025.
+    <span class="publication-links">(<a href="./paper/25-CVPR-2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -468,6 +500,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
