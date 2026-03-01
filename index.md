@@ -212,7 +212,7 @@
     <cite>IEEE Transactions on Instrumentation and Measurement (TIM)</cite>, 2022, 71:1-11.
     <span class="ccf-tag">(中科院二区, IF: 5.9, </span>
         <span class="publication-links">
-            <a href="./paper/8-TIM-2022.pdf" target="_blank">paper</a>)
+            <a href="./paper/9-TIM-2022.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -224,7 +224,7 @@
     <cite>中国图象图形学报</cite>, 2021, 26(01):0218-0228.
     <span class="ccf-tag">(中国计算机学会 CCF 推荐 T2 类中文期刊, </span>
         <span class="publication-links">
-            <a href="./paper/7-中国图像图形学报-2021.pdf" target="_blank">paper</a>)
+            <a href="./paper/7-中国图象图形学报-2021.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -663,6 +663,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
