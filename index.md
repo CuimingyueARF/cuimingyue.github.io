@@ -265,7 +265,7 @@
     Zefeng Li,  <strong>Mingyue Cui</strong>, Daosong Hu, Jin Gong, Jingchong Weng, Zeyu Zhang, Lele Tian, Mengran Li, Kai Huang*.
     A Two-Stage Method for Specular Highlight Detection and Removal in Medical Images.
     <cite>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/29-MICCAI-.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/29-MICCAI_2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -305,8 +305,7 @@
     Siheng Ren, Boyang Li, Shuai Liu, Jiahui Liao, <strong>Mingyue Cui</strong>, Kai Huang*.
     TeamFed: Teamwork Principles-Inspired Federated Learning for 3D Object Detection.
     <cite>Pattern Recognition and Computer Vision Conference (PRCV)</cite>, 2025.
-    <span class="ccf-tag">(CCF-B,</span><span class="publication-links">
-            <a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
+    <span class="ccf-tag">(</span><span class="publication-links"><a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -315,7 +314,7 @@
     <span class="content">
     Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
     An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C]//<cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2024:1-6.
-    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/paper/20-Robio-2024-An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -335,7 +334,7 @@
     Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>.
     An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
     <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/paper/13-ICARM-An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -663,6 +662,7 @@
 </style>
 </body>
 </html>>
+
 
 
 
