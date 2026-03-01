@@ -500,8 +500,8 @@
 
 <h2>Achievement Showcase</h2>
 
-<!-- 视频区域 -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin: 40px 0;">
+<!-- 视频区域 - 添加了 publication 类 -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin: 40px 0;" class="publication">
     
     <!-- 方案1：本地视频 -->
     <div style="background: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
@@ -525,8 +525,8 @@
     </div>
 </div>
 
-<!-- 图片区域 -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin: 40px 0;">
+<!-- 图片区域 - 添加了 publication 类 -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin: 40px 0;" class="publication">
 
     <!-- 图片1：心电衣产品 -->
     <div style="text-align: center;">
@@ -677,8 +677,10 @@
 .content {
     display: block;
 }
+</style>
 </body>
 </html>
+
 
 
 
