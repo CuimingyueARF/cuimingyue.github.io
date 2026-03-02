@@ -344,8 +344,7 @@
     Siheng Ren, Boyang Li, Shuai Liu, Jiahui Liao, <strong>Mingyue Cui</strong>, Kai Huang*.
     TeamFed: Teamwork Principles-Inspired Federated Learning for 3D Object Detection.
     <cite>Pattern Recognition and Computer Vision Conference (PRCV)</cite>, 2025.
-    <span class="ccf-tag">(CCF-B,</span><span class="publication-links">
-            <a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
+    <span class="ccf-tag">(</span><span class="publication-links"><a href="./paper/30-PRCV_2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -359,7 +358,7 @@
         </span>
     </span>
 </div>
-<<div class="publication">
+<div class="publication">
     <span class="bullet">•</span>
     <span class="content">
     Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
@@ -679,6 +678,7 @@
 </style>
 </body>
 </html>
+
 
 
 
