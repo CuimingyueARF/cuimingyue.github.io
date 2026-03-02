@@ -127,18 +127,6 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    Daosong Hu, <strong>Mingyue Cui*</strong>, Kai Huang.
-    GHR-2D: Gaze and head redirection via disentanglement and diffusion for gaze estimation[J].
-    <cite>Engineering Applications of Artificial Intelligence (EAAI)</cite>, 2025, 160: 111901-111914.
-    <span class="ccf-tag">(中科院一区, IF：8, </span>
-        <span class="publication-links">
-            <a href="./paper/29-EAAI-2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
     Han Liu, Yu Jin, <strong>Mingyue Cui</strong>, Boyang Li, Tianjian Hu, Kai Huang*.
     From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems.
     <cite>IEEE Transactions on Automation Science and Engineering (TASE),</cite>, 2025.
@@ -163,12 +151,12 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    <strong>Mingyue Cui</strong>, Jiakang Zhang, Mingjian Feng, Yuyang Zhong, Yanwei Lu, Chunjie Shu, Yehui Li*, Weibing Li.
-    A Hierarchical Plane-Quadric Surface Fitting Based Framework for Real-Time LiDAR Point Cloud Compression[C].
-    <cite>In Proceedings of the International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII)</cite>, 2025.
-    <span class="ccf-tag">(最佳口头汇报奖,</span>
+    Yanchong Xie, Jiepeng Chen, Kai Zheng, Haoyang Huang, Zhanshang Nie, Minglong Zheng, Kai Huang, <strong>Mingyue Cui*</strong>.
+    DSTNN-X: ECG Arrhythmia Classification using Deep Spatio-Temporal Learning with Multi-Lead Contextual Aggregation[C].
+    <cite>In Proceedings of the International Conference on Service Robotics (ICoSR)</cite>, 2025.
+    <span class="ccf-tag">(最佳论文奖, </span>
         <span class="publication-links">
-            <a href="./paper/32-IWACIII-2025.pdf" target="_blank">paper</a>)
+            <a href="./paper/28-ICoSR_2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -196,38 +184,7 @@
         </span>
     </span>
 </div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    <strong>Mingyue Cui</strong>, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang*.
-    An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C].
-    <cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2024:1-6.
-    <span class="publication-links">(<a href="./paper/20-Robio-2024.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>
-    An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
-    <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    Yanchong Xie, Jiepeng Chen, Kai Zheng, Haoyang Huang, Zhanshang Nie, Minglong Zheng, Kai Huang, <strong>Mingyue Cui*</strong>.
-    DSTNN-X: ECG Arrhythmia Classification using Deep Spatio-Temporal Learning with Multi-Lead Contextual Aggregation[C].
-    <cite>In Proceedings of the International Conference on Service Robotics (ICoSR)</cite>, 2025.
-    <span class="ccf-tag">(最佳论文奖, </span>
-        <span class="publication-links">
-            <a href="./paper/28-ICoSR_2025.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
+
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
@@ -236,7 +193,7 @@
     <cite>n Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</cite>, 2024: 3796-3802.
     <span class="ccf-tag">(机器人领域顶级会议, 中国计算机学会 CCF 推荐 B 类国际会议, </span>
         <span class="publication-links">
-            <a href="./paper/12-ICRA_2024.pdf" target="_blank">paper</a>)
+            <a href="./paper/12-ICRA-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -260,7 +217,7 @@
     <cite>IEEE Transactions on Instrumentation and Measurement (TIM)</cite>, 2022, 71:1-11.
     <span class="ccf-tag">(中科院二区, IF: 5.9, </span>
         <span class="publication-links">
-            <a href="./paper/8-TIM-2022.pdf" target="_blank">paper</a>)
+            <a href="./paper/9-TIM-2022.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -272,7 +229,7 @@
     <cite>中国图象图形学报</cite>, 2021, 26(01):0218-0228.
     <span class="ccf-tag">(中国计算机学会 CCF 推荐 T2 类中文期刊, </span>
         <span class="publication-links">
-            <a href="./paper/7-中国图像图形学报-2021.pdf" target="_blank">paper</a>)
+            <a href="./paper/7-中国图象图形学报-2021.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -304,7 +261,7 @@
     Zefeng Li,  <strong>Mingyue Cui</strong>, Daosong Hu, Jin Gong, Jingchong Weng, Zeyu Zhang, Lele Tian, Mengran Li, Kai Huang*.
     A Two-Stage Method for Specular Highlight Detection and Removal in Medical Images.
     <cite>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/29-MICCAI-.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/29-MICCAI_2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -355,6 +312,16 @@
     An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C].
     <cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2025.
     <span class="publication-links">(<a href="./paper/20-Robio-2024-An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems.pdf" target="_blank">paper</a>)
+        </span>
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
+    Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>
+    An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
+    <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
+    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -678,6 +645,7 @@
 </style>
 </body>
 </html>
+
 
 
 
