@@ -500,71 +500,70 @@
 
 <h2>Achievement Showcase</h2>
 
-<!-- 视频区域 -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin: 0;">
+<!-- 视频区域 - 进一步紧凑 -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin: 0 0 8px 0;">
     
-    <!-- 方案1：本地视频 -->
-    <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; text-align: center;">
-        <h3 style="margin-top: 0; margin-bottom: 10px;">心脏性猝死综合防治人工智能可穿戴预警设备</h3>
-        <video controls style="width: 100%; border-radius: 8px;">
+    <!-- 视频1 -->
+    <div style="background: #f9f9f9; padding: 8px; border-radius: 4px; text-align: center;">
+        <h3 style="margin: 0 0 6px; font-size: 1em;">心脏性猝死综合防治人工智能可穿戴预警设备</h3>
+        <video controls style="width: 100%; border-radius: 4px;">
             <source src="./video/心电衣.mp4" type="video/mp4">
-            <!-- 备用：如果视频无法播放，显示链接 -->
             <p>视频无法播放？<a href="./videos/心电衣.mp4" download>点击下载</a></p>
         </video>
-        <p style="color: #666; margin-top: 8px; margin-bottom: 0;">CCTV-13对心电衣的新闻报道</p>
+        <p style="color: #666; margin: 4px 0 0; font-size: 0.8em;">CCTV-13对心电衣的新闻报道</p>
     </div>
     
-    <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; text-align: center;">
-        <h3 style="margin-top: 0; margin-bottom: 10px;">眼科手术机器人</h3>
-        <video controls style="width: 100%; border-radius: 8px;">
+    <!-- 视频2 -->
+    <div style="background: #f9f9f9; padding: 8px; border-radius: 4px; text-align: center;">
+        <h3 style="margin: 0 0 6px; font-size: 1em;">眼科手术机器人</h3>
+        <video controls style="width: 100%; border-radius: 4px;">
             <source src="./video/眼科手术机器人.mp4" type="video/mp4">
-            <!-- 备用：如果视频无法播放，显示链接 -->
             <p>视频无法播放？<a href="./videos/眼科手术机器人.mp4" download>点击下载</a></p>
         </video>
-        <p style="color: #666; margin-top: 8px; margin-bottom: 0;">CCTV-13对手术机器人的新闻报道</p>
+        <p style="color: #666; margin: 4px 0 0; font-size: 0.8em;">CCTV-13对手术机器人的新闻报道</p>
     </div>
 </div>
 
-<!-- 图片区域 - 边框紧贴内容，更加紧凑 -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 0;">
+<!-- 图片区域 - 边框几乎紧贴内容 -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 0;">
 
     <!-- 图片1：工业机器人 -->
     <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
+        <div style="background: #f8f9fa; padding: 8px 8px 4px 8px; border-radius: 4px; height: 100%;">
             <img src="./picture/工业机器人.jpg" alt="工业机器人"
-                 style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">工业机器人实物</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;">实物展示</p>
+                 style="width: 100%; height: 130px; object-fit: cover; border-radius: 3px; margin-bottom: 4px;">
+            <h4 style="margin: 0 0 1px; font-size: 0.9em;">工业机器人实物</h4>
+            <p style="color: #666; font-size: 0.75em; margin: 0 0 2px;">实物展示</p>
         </div>
     </div>
 
     <!-- 图片2：无人车 -->
     <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
+        <div style="background: #f8f9fa; padding: 8px 8px 4px 8px; border-radius: 4px; height: 100%;">
             <img src="./picture/无人车.png" alt="无人车"
-                 style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">无人车实物</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;">实物展示</p>
+                 style="width: 100%; height: 130px; object-fit: cover; border-radius: 3px; margin-bottom: 4px;">
+            <h4 style="margin: 0 0 1px; font-size: 0.9em;">无人车实物</h4>
+            <p style="color: #666; font-size: 0.75em; margin: 0 0 2px;">实物展示</p>
         </div>
     </div>
 
     <!-- 图片3：无人船 -->
     <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
+        <div style="background: #f8f9fa; padding: 8px 8px 4px 8px; border-radius: 4px; height: 100%;">
             <img src="./picture/无人船.gif" alt="无人船"
-                 style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">无人船实物</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;">实物展示</p>
+                 style="width: 100%; height: 130px; object-fit: cover; border-radius: 3px; margin-bottom: 4px;">
+            <h4 style="margin: 0 0 1px; font-size: 0.9em;">无人船实物</h4>
+            <p style="color: #666; font-size: 0.75em; margin: 0 0 2px;">实物展示</p>
         </div>
     </div>
 
     <!-- 图片4：仿生蝴蝶机器人 -->
     <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
+        <div style="background: #f8f9fa; padding: 8px 8px 4px 8px; border-radius: 4px; height: 100%;">
             <img src="./picture/仿生蝴蝶机器人.jpg" alt="仿生蝴蝶机器人"
-                 style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">仿生蝴蝶机器人实物</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;">实物展示</p>
+                 style="width: 100%; height: 130px; object-fit: cover; border-radius: 3px; margin-bottom: 4px;">
+            <h4 style="margin: 0 0 1px; font-size: 0.9em;">仿生蝴蝶机器人实物</h4>
+            <p style="color: #666; font-size: 0.75em; margin: 0 0 2px;">实物展示</p>
         </div>
     </div>
 
@@ -679,6 +678,7 @@
 </style>
 </body>
 </html>
+
 
 
 
