@@ -118,7 +118,7 @@
     FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation[C]//<cite>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</cite>, 2025, 18760-18769.
     <span class="ccf-tag">(中国计算机学会 CCF 推荐 A 类国际会议, </span>
         <span class="publication-links">
-            <a href="./paper/25-CVPR-2025.pdf" target="_blank">paper</a>)
+            <a href="./paper/23-CVPR-2025.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -636,6 +636,7 @@
 </style>
 </body>
 </html>
+
 
 
 
