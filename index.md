@@ -526,7 +526,7 @@
 </div>
 
 <!-- 图片区域 - 边框紧贴内容，更加紧凑 -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin: 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 0;">
 
     <!-- 图片1：工业机器人 -->
     <div style="text-align: center;">
@@ -679,6 +679,7 @@
 </style>
 </body>
 </html>
+
 
 
 
