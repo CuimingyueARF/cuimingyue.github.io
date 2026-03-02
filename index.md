@@ -405,7 +405,7 @@
     Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>.
     An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
     <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/paper/13-ICARM-An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -423,7 +423,7 @@
     <span class="bullet">•</span>
     <span class="content">
     Boyang Li, Hao Meng, Yuzhang Zhu, Rihui Song, <strong>Mingyue Cui</strong>, Gang Chen, Kai Huang*.
-    Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
+    Enhancing 3-D LiDar Pint Clouds With Event-Based Camera.
     <cite>IEEE transactions on Instrumentation and Measurement (TIM)</cite>, 2021.
     <span class="publication-links">(<a href="./paper/8-TIM-.pdf" target="_blank">paper</a>)
         </span>
@@ -679,6 +679,7 @@
 </style>
 </body>
 </html>
+
 
 
 
