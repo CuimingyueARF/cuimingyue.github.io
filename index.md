@@ -542,12 +542,6 @@
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
-    2025 ICoSR 会议, Best Paper
-    </span>
-</div>
-<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
-    <span class="bullet">•</span>
-    <span class="content">
     2025 十八届中山大学“赢在中大”优秀指导教师奖
     </span>
 </div>
@@ -561,6 +555,12 @@
     <span class="bullet">•</span>
     <span class="content">
     2025 第十七、十八届中山大学“赢在中大”创意组, 铜奖
+    </span>
+</div>
+<div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
+    <span class="bullet">•</span>
+    <span class="content">
+    2025 ICoSR 会议, Best Paper
     </span>
 </div>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
@@ -636,6 +636,7 @@
 </style>
 </body>
 </html>
+
 
 
 
