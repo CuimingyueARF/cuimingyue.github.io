@@ -533,8 +533,8 @@
         <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
             <img src="./picture/工业机器人.jpg" alt="工业机器人"
                  style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">工业机器人实物</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;">实物展示</p>
+            <h4 style="margin: 0 0 2px; font-size: 0.95em;">工业机器人</h4>
+            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;"></p>
         </div>
     </div>
 
@@ -543,8 +543,8 @@
         <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
             <img src="./picture/无人车.png" alt="无人车"
                  style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">无人车实物</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;">实物展示</p>
+            <h4 style="margin: 0 0 2px; font-size: 0.95em;">无人车</h4>
+            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;"></p>
         </div>
     </div>
 
@@ -553,8 +553,8 @@
         <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
             <img src="./picture/无人船.gif" alt="无人船"
                  style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">无人船实物</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;">实物展示</p>
+            <h4 style="margin: 0 0 2px; font-size: 0.95em;">无人船</h4>
+            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;"></p>
         </div>
     </div>
 
@@ -563,8 +563,8 @@
         <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
             <img src="./picture/仿生蝴蝶机器人.jpg" alt="仿生蝴蝶机器人"
                  style="width: 100%; height: 140px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">仿生蝴蝶机器人实物</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;">实物展示</p>
+            <h4 style="margin: 0 0 2px; font-size: 0.95em;">仿生蝴蝶机器人</h4>
+            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;"></p>
         </div>
     </div>
 
@@ -679,6 +679,7 @@
 </style>
 </body>
 </html>
+
 
 
 
