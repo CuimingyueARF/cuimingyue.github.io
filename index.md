@@ -569,7 +569,7 @@
     </div>
 
 </div>
-<h2>Awards/Honors</h2>
+<h2 style="margin-top: 20px; margin-bottom: 15px;">Awards/Honors</h2>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
     <span class="content">
@@ -679,6 +679,7 @@
 </style>
 </body>
 </html>
+
 
 
 
