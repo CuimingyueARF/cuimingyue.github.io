@@ -404,7 +404,7 @@
     Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>.
     An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C].
     <cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="publication-links">(<a href="./paper/paper/paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -678,6 +678,7 @@
 </style>
 </body>
 </html>
+
 
 
 
