@@ -241,15 +241,6 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    <strong>Mingyue Cui</strong>, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang*.
-    An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C]//<cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2025.
-    <span class="publication-links">(<a href="./paper/20-Robio-2024-An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems.pdf" target="_blank">paper</a>)
-        </span>
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
     Shuai Liu, <strong>Mingyue Cui</strong>, Boyang Li*.Quanmin Liang, Tinghe Hong, Yunxiao Shan, Kai Huang.
     FSHNet: Fully Sparse Hybrid Network for 3D Object Detection.
     <cite>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</cite>, 2025.
@@ -310,9 +301,9 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    Fangzhou Zhang, <strong>Mingyue Cui</strong>, Yehua Ling, Han Liu, Kai Huang*.
+    <strong>Mingyue Cui</strong>, Chiawen Liao, Yuxuan Chen, Junda Lai, Zifeng Deng, Kai Huang*.
     An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems[C]//<cite>In Proceedings of the IEEE International Conference on Robotics and Biomimetics</cite>, 2024:1-6.
-    <span class="publication-links">(<a href="./paper/paper/20-Robio-2024-An Efficient Odometry and Mapping Framework Based on Multi-LiDAR Systems.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/20-Robio-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -331,7 +322,7 @@
     <span class="content">
     Junhua Long, Mingjian Feng, Boyang Li, Yehua Ling, Chenghao Wu, Kai Huang, <strong>Mingyue Cui*</strong>.
     An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression[C]//<cite>In Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</cite>, 2024:382-387.
-    <span class="publication-links">(<a href="./paper/paper/13-ICARM-An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression.pdf" target="_blank">paper</a>)
+    <span class="publication-links">(<a href="./paper/13-ICARM-2024.pdf" target="_blank">paper</a>)
         </span>
     </span>
 </div>
@@ -389,7 +380,7 @@
     <span class="bullet">•</span>
     <span class="content">
     Boyang Li, Hao Meng, Yuzhang Zhu, Rihui Song, <strong>Mingyue Cui</strong>, Gang Chen, Kai Huang*.
-    Multi-Vehicle Collaborative SLAM Framework for Minimum Loop Detection.
+    Enhancing 3-D LiDar Point Clouds With Event-Based Camera.
     <cite>IEEE transactions on Instrumentation and Measurement (TIM)</cite>, 2021.
     <span class="publication-links">(<a href="./paper/8-TIM-.pdf" target="_blank">paper</a>)
         </span>
@@ -645,6 +636,7 @@
 </style>
 </body>
 </html>
+
 
 
 
