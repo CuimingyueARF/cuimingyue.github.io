@@ -525,51 +525,50 @@
     </div>
 </div>
 
-<!-- 图片区域 - 调整标题上边距，与视频区域对齐 -->
+<!-- 图片区域 - 增加标题上边距，与视频区域对齐 -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin: 0;">
 
     <!-- 图片1：工业机器人 -->
     <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 12px; border-radius: 8px; height: 100%;">
+        <div style="background: #f8f9fa; padding: 15px 12px 12px 12px; border-radius: 8px; height: 100%;">
             <img src="./picture/工业机器人.jpg" alt="工业机器人"
-                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 6px; margin-bottom: 8px;">
-            <h4 style="margin: 4px 0 4px; font-size: 1em;">工业机器人实物</h4>
+                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 6px; margin-bottom: 10px;">
+            <h4 style="margin: 0 0 6px; font-size: 1em;">工业机器人实物</h4>
             <p style="color: #666; font-size: 0.85em; margin: 0 0 4px;">实物展示</p>
         </div>
     </div>
 
     <!-- 图片2：无人车 -->
     <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 12px; border-radius: 8px; height: 100%;">
+        <div style="background: #f8f9fa; padding: 15px 12px 12px 12px; border-radius: 8px; height: 100%;">
             <img src="./picture/无人车.png" alt="无人车"
-                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 6px; margin-bottom: 8px;">
-            <h4 style="margin: 4px 0 4px; font-size: 1em;">无人车实物</h4>
+                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 6px; margin-bottom: 10px;">
+            <h4 style="margin: 0 0 6px; font-size: 1em;">无人车实物</h4>
             <p style="color: #666; font-size: 0.85em; margin: 0 0 4px;">实物展示</p>
         </div>
     </div>
 
     <!-- 图片3：无人船 -->
     <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 12px; border-radius: 8px; height: 100%;">
+        <div style="background: #f8f9fa; padding: 15px 12px 12px 12px; border-radius: 8px; height: 100%;">
             <img src="./picture/无人船.gif" alt="无人船"
-                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 6px; margin-bottom: 8px;">
-            <h4 style="margin: 4px 0 4px; font-size: 1em;">无人船实物</h4>
+                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 6px; margin-bottom: 10px;">
+            <h4 style="margin: 0 0 6px; font-size: 1em;">无人船实物</h4>
             <p style="color: #666; font-size: 0.85em; margin: 0 0 4px;">实物展示</p>
         </div>
     </div>
 
     <!-- 图片4：仿生蝴蝶机器人 -->
     <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 12px; border-radius: 8px; height: 100%;">
+        <div style="background: #f8f9fa; padding: 15px 12px 12px 12px; border-radius: 8px; height: 100%;">
             <img src="./picture/仿生蝴蝶机器人.jpg" alt="仿生蝴蝶机器人"
-                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 6px; margin-bottom: 8px;">
-            <h4 style="margin: 4px 0 4px; font-size: 1em;">仿生蝴蝶机器人实物</h4>
+                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 6px; margin-bottom: 10px;">
+            <h4 style="margin: 0 0 6px; font-size: 1em;">仿生蝴蝶机器人实物</h4>
             <p style="color: #666; font-size: 0.85em; margin: 0 0 4px;">实物展示</p>
         </div>
     </div>
 
 </div>
-
 <h2>Awards/Honors</h2>
 <div class="publication" style="margin-bottom: 0.5em; line-height: 1.3;">
     <span class="bullet">•</span>
@@ -680,6 +679,7 @@
 </style>
 </body>
 </html>
+
 
 
 
