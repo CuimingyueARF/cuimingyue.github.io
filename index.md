@@ -468,17 +468,17 @@
             <!-- 备用：如果视频无法播放，显示链接 -->
             <p>视频无法播放？<a href="./videos/心电衣.mp4" download>点击下载</a></p>
         </video>
-        <p style="color: #666; margin-top: 8px; margin-bottom: 0;">CCTV-13对心电衣的新闻报道</p>
+        <p style="color: #666; margin-top: 8px; margin-bottom: 0;">CCTV-13对心电衣的报道</p>
     </div>
     
     <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; text-align: center;">
-        <h3 style="margin-top: 0; margin-bottom: 10px;">眼科手术机器人</h3>
+        <h3 style="margin-top: 0; margin-bottom: 10px;">显微眼科手术机器人</h3>
         <video controls style="width: 100%; border-radius: 8px;">
             <source src="./video/眼科手术机器人.mp4" type="video/mp4">
             <!-- 备用：如果视频无法播放，显示链接 -->
             <p>视频无法播放？<a href="./videos/眼科手术机器人.mp4" download>点击下载</a></p>
         </video>
-        <p style="color: #666; margin-top: 8px; margin-bottom: 0;">CCTV-13对手术机器人的新闻报道</p>
+        <p style="color: #666; margin-top: 8px; margin-bottom: 0;">CCTV-13对手术机器人的报道</p>
     </div>
 </div>
 
@@ -636,6 +636,7 @@
 </style>
 </body>
 </html>
+
 
 
 
