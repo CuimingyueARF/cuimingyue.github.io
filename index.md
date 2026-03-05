@@ -482,20 +482,8 @@
     </div>
 </div>
 
-<!-- 图片区域 - 边框紧贴内容，更加紧凑 -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; margin: 0;">
 
-    <!-- 图片1：工业机器人 -->
-    <div style="text-align: center;">
-        <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
-            <img src="./picture/工业机器人.jpg" alt="工业机器人"
-                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
-            <h4 style="margin: 0 0 2px; font-size: 0.95em;">工业机器人</h4>
-            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;"></p>
-        </div>
-    </div>
-
-    <!-- 图片2：无人车 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
             <img src="./picture/无人车.png" alt="无人车"
@@ -505,7 +493,6 @@
         </div>
     </div>
 
-    <!-- 图片3：无人船 -->
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
             <img src="./picture/无人船.gif" alt="无人船"
@@ -515,7 +502,15 @@
         </div>
     </div>
 
-    <!-- 图片4：仿生蝴蝶机器人 -->
+    <div style="text-align: center;">
+        <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
+            <img src="./picture/工业机器人.jpg" alt="工业机器人"
+                 style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;">
+            <h4 style="margin: 0 0 2px; font-size: 0.95em;">工业机器人</h4>
+            <p style="color: #666; font-size: 0.8em; margin: 0 0 2px;"></p>
+        </div>
+    </div>
+
     <div style="text-align: center;">
         <div style="background: #f8f9fa; padding: 10px 10px 6px 10px; border-radius: 6px; height: 100%;">
             <img src="./picture/仿生蝴蝶机器人.jpg" alt="仿生蝴蝶机器人"
@@ -636,6 +631,7 @@
 </style>
 </body>
 </html>
+
 
 
 
