@@ -401,19 +401,13 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    Ph.D., Computer Science, <a href="https://cse.sysu.edu.cn/">Sun Yat-sen University</a>, 09/2018 - 06/2022
+    Ph.D., Computer Science and Technology, <a href="https://cse.sysu.edu.cn/">Sun Yat-sen University</a>, 09/2018 - 12/2022
     </span>
 </div>
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
-    M.Sc., Software Engineering, <a href="https://cs.nuaa.edu.cn/">Nanjing University of Aeronautics and Astronautics</a>, 09/2015 - 03/2018
-    </span>
-</div>
-<div class="publication">
-    <span class="bullet">•</span>
-    <span class="content">
-    B.E., Software Engineering, <a href="https://ss.nchu.edu.cn/">Nanchang Hangkong University</a>, 09/2011 - 06/2015
+    M.Sc., Software Engineering, <a href="https://cse.sysu.edu.cn/">Sun Yat-sen University</a>, 09/2015 - 12/2017
     </span>
 </div>
 
@@ -631,6 +625,7 @@
 </style>
 </body>
 </html>
+
 
 
 
