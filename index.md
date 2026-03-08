@@ -25,7 +25,7 @@
         <p><strong>Email:</strong> cuimy5@mail.sysu.edu.cn</p>
     </div>
     <h2>Research</h2>
-    <p>My research interests include high-dimensional data feature learning, sparse representation, and compressed sensing in signal processing; temporal data modeling and efficient neural architecture design in artificial intelligence; intelligent processing and system integration, structured representation and reconstruction of 3D scenes in computer vision and industrial software, among others.</p>
+    <p>My research spans high-dimensional feature learning, sparse representation, and compressed sensing in signal processing; temporal data modeling and efficient neural architecture design in artificial intelligence; as well as intelligent processing and system integration, and structured representation and reconstruction of 3D scenes in computer vision and industrial software, with a focus on their interdisciplinary applications.</p>
     <h2>Publication</h2>
 <div class="publication">
     <span class="bullet">•</span>
@@ -630,6 +630,7 @@
 </style>
 </body>
 </html>
+
 
 
 
