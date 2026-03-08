@@ -407,6 +407,12 @@
 <div class="publication">
     <span class="bullet">•</span>
     <span class="content">
+    Visiting Student., <a href="https://www.tum.de/en/">Technical University of Munich</a>, 11/2021 - 11/2022
+    </span>
+</div>
+<div class="publication">
+    <span class="bullet">•</span>
+    <span class="content">
     M.Sc., Software Engineering, <a href="https://cse.sysu.edu.cn/">Sun Yat-sen University</a>, 09/2015 - 12/2017
     </span>
 </div>
@@ -625,6 +631,7 @@
 </style>
 </body>
 </html>
+
 
 
 
