@@ -25,8 +25,7 @@
         <p><strong>Email:</strong> cuimy5@mail.sysu.edu.cn</p>
     </div>
     <h2>Research</h2>
-    <p>My main research area is Knowledge Representation and Reasoning (KRR) in Artificial Intelligence. My research interests are Neuro-symbolic Computing, Knowledge Mining/Discovery, Boolean Satisfiability (SAT) Problem, Combinatorial Optimization, Goal-oriented Requirements Engineering, and Reliability Analysis.</p>
-    <p>I now focus on learning formal languages and satisfiability checking for linear temporal logic (LTL).</p>
+    <p>My research interests include high-dimensional data feature learning, sparse representation, and compressed sensing in signal processing; temporal data modeling and efficient neural architecture design in artificial intelligence; intelligent processing and system integration, structured representation and reconstruction of 3D scenes in computer vision and industrial software, among others.</p>
     <h2>Publication</h2>
 <div class="publication">
     <span class="bullet">•</span>
@@ -631,6 +630,7 @@
 </style>
 </body>
 </html>
+
 
 
 
