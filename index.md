@@ -22,7 +22,7 @@
     <div class="contact-info">
         <p><strong>Address:</strong> School of Computer Science and Engineering, Sun Yat-sen University</p>
         <p><strong>Tel:</strong> +86-13726211441</p>
-        <p><strong>Email:</strong> cuimy@mail2.sysu.edu.cn</p>
+        <p><strong>Email:</strong> cuimy5@mail.sysu.edu.cn</p>
     </div>
     <h2>Research</h2>
     <p>My main research area is Knowledge Representation and Reasoning (KRR) in Artificial Intelligence. My research interests are Neuro-symbolic Computing, Knowledge Mining/Discovery, Boolean Satisfiability (SAT) Problem, Combinatorial Optimization, Goal-oriented Requirements Engineering, and Reliability Analysis.</p>
@@ -625,6 +625,7 @@
 </style>
 </body>
 </html>
+
 
 
 
